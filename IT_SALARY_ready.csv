@@ -1,0 +1,822 @@
+,Date,Age,Gender,City,Position ,Experience,Years of experience in Germany,Seniority level,Main Technology,Main_Tech_2,Salary,Bonus_Stocks_inclusion,Salary_1yr_ago,Bonus_Stocks_1yr_ago,Vacations,Employment status,Contract duration,Language,Company size,Company type,Job_lost_covid,Shorter_working_week,Additional income wfh
+0,24-11-2020,26,Male,Berlin,QA Engineer,6.0,6.0,Middle,JavaScript,SQL,50000.0,0.0,45000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+2,25-11-2020,22,Female,Berlin,Business Analyst,4.0,1.0,Middle,Business Development Manager Operation ,SQL,39000.0,0.0,39000.0,0.0,y,Full-time employee,Temporary contract,English,10000,Startup,No,0.0,0
+6,06-12-2020,22,Male,Frankfurt,Software Engineer,2.0,2.0,Junior,Java ,SQL,45000.0,7000.0,37000.0,3000.0,y,Full-time employee,Unlimited contract,German,10000,Bank,Yes,30.0,0
+9,01-12-2020,22,Male,Zurich,Product Analyst,2.0,0.5,WorkingStudent,Python,SQL,35000.0,35000.0,30000.0,30000.0,n,Intern,Temporary contract,German,10,Startup,No,0.0,0
+10,01-12-2020,23,Female,Berlin,Data Analyst,1.0,1.0,Junior,SQL,SQL,36000.0,36000.0,36000.0,36000.0,y,Full-time employee,Unlimited contract,English,10000,Startup,No,0.0,500
+12,24-11-2020,23,Male,Berlin,Software Engineer,4.0,1.0,Middle,JavaScript,SQL,70500.0,0.0,58000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+13,25-11-2020,23,Male,Berlin,Software Engineer,3.0,3.0,Middle,JavaScript,SQL,60000.0,6000.0,52000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+17,30-11-2020,23,Male,Dublin,Data Analyst,3.0,0.0,Senior,Python,SQL,49200.0,2000.0,44500.0,1500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,540
+23,24-11-2020,24,Male,Berlin,Data Scientist,4.0,2.0,Senior,Python,SQL,73000.0,73000.0,50000.0,50000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+25,24-11-2020,24,Male,Berlin,Backend Developer,4.0,3.0,Middle,PHP,SQL,46000.0,0.0,42000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+26,26-11-2020,24,Male,Berlin,Software Engineer,2.0,2.0,Junior,JavaScript,SQL,50000.0,0.0,35000.0,35000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+27,06-01-2021,24,Male,Berlin,Frontend Developer,5.0,2.0,Senior,TypeScript,SQL,68250.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+28,24-11-2020,24,Male,Berlin,DevOps,6.0,3.0,Senior,Kubernetes,SQL,75000.0,10000.0,63000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+29,24-11-2020,24,Male,Berlin,Frontend Developer,5.0,1.0,Senior,TypeScript,SQL,65000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,600
+32,27-11-2020,24,Male,Berlin,Software Engineer,2.0,2.0,Junior,Java ,SQL,60000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,German,10,Consulting and Product,No,0.0,0
+35,24-11-2020,24,Male,Boeblingen,C,0.8,0.8,Junior,Java ,SQL,48000.0,101.0,48000.0,101.0,y,Full-time employee,Unlimited contract,English,50,Product,No,40.0,250
+36,25-11-2020,24,Male,Cologne,Data Scientist,1.0,1.0,WorkingStudent,Python,SQL,57600.0,7000.0,48000.0,7000.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,0.0,0
+37,24-11-2020,24,Male,Frankfurt,Frontend Developer,3.0,0.0,Middle,JavaScript,SQL,44000.0,3000.0,44000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+38,03-12-2020,24,Male,Moscow,Product Manager,3.0,0.0,Senior,Missing_Values,SQL,48000.0,7200.0,36000.0,0.0,y,Full-time employee,Unlimited contract,Deuglisch,10000,Product,No,0.0,0
+41,24-11-2020,24,Male,Munich,Software Engineer,5.0,2.0,Middle,C++,SQL,79000.0,56000.0,77000.0,33000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,900
+42,24-11-2020,24,Male,Munich,Software Engineer,3.0,2.0,Middle,Java ,SQL,77600.0,43500.0,72000.0,18800.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,40.0,1000
+45,26-11-2020,24,Female,Prague,Software Engineer,3.0,0.0,Middle,Java ,SQL,29000.0,0.0,23000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+46,30-11-2020,24,Male,Sofia,ML Engineer,5.0,0.0,Senior,Python,SQL,64000.0,0.0,40000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+48,24-11-2020,24,Male,Tallinn,Software Engineer,3.0,0.0,Junior,Java ,SQL,30000.0,0.0,28800.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+49,05-12-2020,25,Female,Amsterdam,Data Scientist,1.5,0.0,Middle,Python,SQL,49850.0,500.0,36000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,150
+50,28-11-2020,25,Female,Berlin,Support Engineer,2.0,2.0,Middle,Python,SQL,45000.0,45000.0,12000.0,12000.0,y,Full-time employee,Unlimited contract,English,10000,Startup,Yes,0.0,0
+52,26-11-2020,25,Male,Berlin,Backend Developer,6.0,2.0,Senior,Go,SQL,86000.0,0.0,80000.0,5000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,500
+54,24-11-2020,25,Male,Berlin,Backend Developer,4.0,1.0,Middle,Python,SQL,60000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+57,25-11-2020,25,Male,Berlin,Software Engineer,6.0,3.0,Senior,JavaScript,SQL,71750.0,6000.0,66000.0,5500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+58,25-11-2020,25,Male,Berlin,Data Engineer,3.0,3.0,Senior,Scala,SQL,65000.0,10000.0,58000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,700
+59,24-11-2020,25,Male,Berlin,Solutions Architect,6.0,2.0,Middle,Apache Spark,SQL,100000.0,20000.0,73000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,400
+62,25-11-2020,25,Male,Berlin,Mobile Developer,2.0,2.0,Middle,Swift,Objective-C,44000.0,0.0,43000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+66,25-11-2020,25,Male,Berlin,Software Engineer,6.0,2.0,Middle,Java ,SQL,63700.0,1600.0,60000.0,600.0,y,Full-time employee,Unlimited contract,English,10000,E-commerce,No,0.0,580
+72,25-11-2020,25,Female,Frankfurt,Software Engineer,3.0,2.0,Middle,Java ,SQL,53000.0,5000.0,48000.0,2004.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,550
+75,03-12-2020,25,Male,Hamburg,ML Engineer,2.0,2.0,Middle,Python,.NET,60000.0,65000.0,48000.0,53000.0,y,Full-time employee,Unlimited contract,German,50,Product,No,0.0,0
+76,01-12-2020,25,Male,Hamburg,Backend Developer,5.0,1.0,Middle,Java ,SQL,53500.0,53500.0,50000.0,50000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,32.0,0
+77,24-11-2020,25,Male,Hamburg,Data Scientist,2.0,2.0,Middle,Python,.NET,48000.0,5000.0,43200.0,48000.0,y,Full-time employee,Unlimited contract,German,50,Product,No,0.0,0
+83,24-11-2020,25,Male,Munich,Software Engineer,3.0,1.0,Middle,Java ,SQL,62000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+88,24-11-2020,25,Male,Stuttgart,Backend Developer,4.0,2.0,Middle,Java ,SQL,60000.0,0.0,50000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,0
+90,30-11-2020,26,Male,Amsterdam,Data Scientist,2.0,0.0,Junior,Python,SQL,48000.0,15000.0,43000.0,0.0,y,Full-time employee,Temporary contract,English,100,Fintech,No,0.0,0
+91,25-11-2020,26,Female,Berlin,Data Scientist,4.0,1.0,Middle,SQL,SQL,45000.0,0.0,45000.0,0.0,y,Full-time employee,Temporary contract,English,1000,Startup,Yes,0.0,0
+94,25-11-2020,26,Male,Berlin,Data Scientist,5.0,3.0,Middle,Python,SQL,59000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,300
+95,19-01-2021,26,Male,Berlin,DevOps,2.0,2.0,Middle,yaml,SQL,65000.0,6500.0,40000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,30.0,600
+96,30-11-2020,26,Male,Berlin,DevOps,5.0,2.0,Middle,Kubernetes,SQL,72000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+98,25-11-2020,26,Male,Berlin,Data Engineer,2.0,2.0,Middle,Python,SQL,54000.0,1000.0,31000.0,31000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,700
+99,24-11-2020,26,Male,Berlin,Backend Developer,7.0,4.0,Senior,Ruby on Rails,SQL,80000.0,0.0,82000.0,5000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+100,24-11-2020,26,Female,Berlin,Software Engineer,6.0,4.0,Senior,.NET,.NET,65000.0,1000.0,56000.0,1000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+102,30-11-2020,26,Male,Berlin,Backend Developer,6.0,3.0,Senior,Go,SQL,70000.0,71000.0,64000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,40.0,200
+103,01-12-2020,26,Male,Berlin,Product Analyst,4.0,3.0,Middle,Python,SQL,55000.0,0.0,45000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,100
+104,30-11-2020,26,Male,Berlin,Software Engineer,5.0,1.0,Middle,Python,SQL,69000.0,2000.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,800
+105,27-11-2020,26,Female,Berlin,Tech recruiting,2.0,2.0,Middle,JavaScript,SQL,40000.0,1000.0,33000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+107,24-11-2020,26,Male,Berlin,Mobile Developer,6.0,2.0,Senior,Kotlin ,SQL,70000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+109,27-12-2020,26,Male,Berlin,Backend Developer,5.0,4.0,Middle,Java ,SQL,72000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+111,09-12-2020,26,Female,Berlin,Mobile Developer,8.0,3.0,Middle,C++,SQL,40000.0,2000.0,15000.0,0.0,y,Self-employed,Temporary contract,German,1000,Product,No,0.0,0
+112,24-11-2020,26,Male,Berlin,Software Engineer,5.0,2.0,Middle,Scala,SQL,63000.0,10300.0,56500.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,850
+113,25-11-2020,26,Male,Berlin,Software Engineer,5.0,2.0,Middle,Swift,SQL,71000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,24.0,0
+114,24-11-2020,26,Male,Berlin,Software Engineer,8.0,3.0,Lead,Go,SQL,85000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+115,26-11-2020,26,Male,Berlin,Data Scientist,4.0,2.0,Middle,Python,SQL,60000.0,6000.0,60000.0,6000.0,y,Full-time employee,Unlimited contract,English,10000,E-commerce,No,0.0,180
+116,26-11-2020,26,Male,Berlin,Data Engineer,4.0,3.0,Middle,Scala,SQL,51000.0,0.0,46000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,0.0,0
+119,25-11-2020,26,Female,Dusseldorf,BI Consultant,5.0,5.0,Middle,ABAP,SQL,65000.0,77000.0,46000.0,50000.0,y,Full-time employee,Unlimited contract,German,10,Startup,No,0.0,0
+120,27-11-2020,26,Male,Eindhoven,ML Engineer,3.0,0.0,Middle,Python,SQL,48000.0,0.0,42000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+122,24-11-2020,26,Male,Frankfurt,Consultant,4.0,4.0,Middle,JavaScript,SQL,65000.0,70000.0,55000.0,55000.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,0
+126,24-11-2020,26,Male,Karlsruhe,Software Engineer,5.0,5.0,Senior,JavaScript,SQL,55000.0,0.0,52000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,32.0,0
+128,24-11-2020,26,Male,London,Frontend Developer,8.0,0.0,Senior,TypeScript,SQL,105000.0,60000.0,85000.0,60000.0,y,Full-time employee,Unlimited contract,English,10000,Startup,No,0.0,0
+131,27-11-2020,26,Female,Moscow,Frontend Developer,6.0,0.0,Senior,JavaScript,SQL,33000.0,0.0,27000.0,0.0,n,Full-time employee,Unlimited contract,Russian,1000,Product,No,0.0,0
+132,03-12-2020,26,Male,Munich,Software Engineer,6.0,2.0,Senior,TypeScript,SQL,93000.0,10000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+135,24-11-2020,26,Female,Munich,Data Scientist,6.0,2.0,Middle,Python,SQL,60000.0,10000.0,60000.0,60000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+136,24-11-2020,26,Male,Munich,Software Engineer,5.0,3.0,Senior,TypeScript,SQL,80000.0,5000.0,75000.0,10000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+137,24-11-2020,26,Male,Munich,Data Scientist,3.0,2.0,Middle,Python,SQL,65000.0,7000.0,52000.0,300.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+138,24-11-2020,26,Male,Munich,Backend Developer,7.0,1.0,Senior,Java ,SQL,78000.0,4000.0,61000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+141,24-11-2020,26,Male,Munich,ML Engineer,1.5,1.5,Junior,Python,SQL,58000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,0
+142,01-12-2020,26,Female,Prague,Software Engineer,4.0,1.0,Middle,C#,.NET,64000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,Russian,10000,Product,No,0.0,0
+146,19-01-2021,26,Male,Serbia,Frontend Developer,7.0,7.0,Middle,JavaScript,SQL,38350.0,40950.0,33800.0,36400.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+147,12-12-2020,26,Male,Stockholm,ML Engineer,2.5,0.0,Middle,Python,SQL,60000.0,60000.0,37500.0,37500.0,y,Full-time employee,Unlimited contract,English,10000,Product,Yes,0.0,0
+148,24-11-2020,27,Male,Amsterdam,ML Engineer,4.0,1.0,Middle,Python,SQL,62000.0,62000.0,40000.0,40000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+149,25-11-2020,27,Male,Berlin,ML Engineer,6.0,1.0,Middle,Python,SQL,82000.0,38500.0,78000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,Yes,0.0,0
+150,24-11-2020,27,Male,Berlin,Tech Lead,5.0,3.5,Lead,Python,SQL,90000.0,1000.0,75000.0,1000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,36.0,0
+152,25-11-2020,27,Male,Berlin,DevOps,7.0,3.5,Senior,Go,SQL,80000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,20.0,0
+153,24-11-2020,27,Male,Berlin,Software Engineer,5.0,1.0,Senior,Scala,SQL,78000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Startup,No,0.0,0
+156,25-11-2020,27,Male,Berlin,Software Engineer,6.0,3.0,Middle,Java ,SQL,82000.0,12000.0,94000.0,92000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1300
+157,25-11-2020,27,Male,Berlin,Software Engineer,2.0,1.0,Lead,Django,SQL,90000.0,7000.0,97000.0,87000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+158,07-12-2020,27,Female,Berlin,Data Scientist,5.0,2.0,Senior,Python,SQL,75000.0,0.0,60000.0,60000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+159,25-11-2020,27,Female,Berlin,Data Analyst,1.0,1.0,Middle,Python,SQL,63000.0,0.0,42000.0,46000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,600
+160,27-11-2020,27,Female,Berlin,Backend Developer,1.0,1.0,Junior,Java ,SQL,42000.0,3000.0,42000.0,3000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+161,25-11-2020,27,Female,Berlin,Backend Developer,5.0,2.0,Middle,Kotlin ,SQL,65000.0,0.0,52000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+162,29-11-2020,27,Male,Berlin,Data Engineer,6.0,3.0,Middle,Python,SQL,74000.0,21000.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,200
+163,24-11-2020,27,Female,Berlin,Data Scientist,3.0,3.0,Middle,Python,SQL,58000.0,1000.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+165,24-11-2020,27,Male,Berlin,Backend Developer,8.0,3.0,Senior,PHP,SQL,60000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+174,25-11-2020,27,Male,Berlin,DevOps,4.0,4.0,Middle,AWS,SQL,66000.0,6000.0,61200.0,67200.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,0
+175,16-12-2020,27,Male,Berlin,Data Engineer,0.0,0.0,Junior,Python,SQL,40000.0,0.0,34000.0,37500.0,y,Full-time employee,Unlimited contract,German,10000,Consulting and Product,No,0.0,0
+177,30-11-2020,27,Male,Cologne,Software Engineer,1.0,1.0,Junior,C++,SQL,45000.0,45000.0,45000.0,45000.0,y,Full-time employee,Unlimited contract,German,50,Product,No,0.0,0
+180,05-12-2020,27,Male,Frankfurt,IT Manager,5.0,3.0,Middle,Missing_Values,SQL,73000.0,4000.0,65000.0,3000.0,y,Full-time employee,Unlimited contract,English,10000,Industry,No,0.0,150
+181,25-11-2020,27,Male,Frankfurt,Software Engineer,5.0,3.0,Middle,C#,SQL,48000.0,0.0,45000.0,0.0,y,Full-time employee,Unlimited contract,English,10,Consulting and Product,No,0.0,0
+185,25-12-2020,27,Male,Krakow,QA Engineer,5.0,1.0,Senior,Java ,SQL,35000.0,0.0,35000.0,0.0,y,Full-time employee,Temporary contract,English,1000,Product,No,0.0,0
+187,25-11-2020,27,Female,Munich,Mobile Developer,1.0,1.0,Junior,Kotlin ,SQL,50000.0,0.0,50000.0,50000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,32.0,0
+188,24-11-2020,27,Female,Munich,Frontend Developer,2.0,2.0,Middle,JavaScript,SQL,64000.0,0.0,50000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+189,14-12-2020,27,Male,Munich,QA Engineer,6.0,4.0,Middle,Python,SQL,70000.0,75000.0,67000.0,70000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1000
+190,24-11-2020,27,Male,Munich,Software Engineer,5.0,1.0,Senior,JavaScript,SQL,65000.0,0.0,65000.0,65000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+191,30-11-2020,27,Female,Munich,Backend Developer,6.0,4.0,Senior,Java ,SQL,85600.0,10000.0,75000.0,10000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+192,08-12-2020,27,Male,Munich,Software Engineer,2.0,5.0,Junior,Java ,SQL,68000.0,2000.0,60000.0,500.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+193,24-11-2020,27,Male,Munich,QA Engineer,5.0,1.0,Senior,Swift,SQL,58000.0,5800.0,58000.0,101.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+194,24-11-2020,27,Male,Munich,Software Engineer,5.0,1.0,Senior,TypeScript,SQL,71000.0,5000.0,66000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+196,02-01-2021,27,Male,Munich,Software Engineer,8.0,4.0,Senior,C++,SQL,52000.0,0.0,52000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+202,24-11-2020,27,Male,Tuttlingen,Software Engineer,4.0,4.0,Junior,C#,.NET,46000.0,2000.0,43000.0,2000.0,y,Full-time employee,Unlimited contract,German,10,Product,No,40.0,0
+203,25-11-2020,28,Female,Amsterdam,Program Manager,10.0,3.0,Senior,Management,SQL,86000.0,30000.0,75000.0,5000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,400
+204,30-11-2020,28,Male,Berlin,ML Engineer,1.0,1.0,Junior,Python,SQL,43000.0,43000.0,42000.0,42000.0,y,Full-time employee,Unlimited contract,English,10,Startup,Yes,0.0,0
+206,24-11-2020,28,Male,Berlin,Designer (UI/UX),11.0,2.0,Senior,Missing_Values,SQL,75000.0,9400.0,66000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,Yes,0.0,0
+207,24-11-2020,28,Male,Berlin,Software Engineer,6.0,2.0,Senior,Java ,SQL,65000.0,75000.0,60000.0,60000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+208,11-12-2020,28,Male,Berlin,ML Engineer,5.0,3.0,Middle,Python,SQL,54000.0,10000.0,52000.0,10000.0,y,Full-time employee,Unlimited contract,English,10,Startup,No,0.0,0
+209,24-11-2020,28,Female,Berlin,Software Engineer,3.0,3.0,Middle,JavaScript,SQL,60000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+210,24-11-2020,28,Male,Berlin,Backend Developer,5.0,1.0,Senior,Kotlin ,SQL,75000.0,0.0,58000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+211,27-11-2020,28,Male,Berlin,Data Engineer,7.0,3.0,Senior,Python,SQL,90000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+212,26-11-2020,28,Male,Berlin,Fullstack Developer,6.0,6.0,Senior,JavaScript,SQL,75000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+213,24-11-2020,28,Male,Berlin,Software Engineer,3.0,2.0,Middle,JavaScript,SQL,55000.0,0.0,42000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,24.0,0
+214,26-11-2020,28,Male,Berlin,Backend Developer,8.0,1.0,Lead,Ruby on Rails,SQL,67000.0,0.0,62000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+216,25-11-2020,28,Male,Berlin,Frontend Developer,2.0,2.0,Junior,JavaScript,SQL,47000.0,0.0,46000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Publishing and Technology,No,0.0,0
+217,03-12-2020,28,Female,Berlin,Data Scientist,4.0,2.0,Middle,Python,SQL,73700.0,80400.0,67000.0,67000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,200
+218,24-11-2020,28,Male,Berlin,Backend Developer,9.0,2.0,Senior,PHP,SQL,60000.0,1000.0,45000.0,45000.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+219,25-11-2020,28,Male,Berlin,Data Scientist,4.0,4.0,Middle,Python,SQL,70000.0,5500.0,70000.0,5500.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,250
+220,05-12-2020,28,Female,Berlin,Backend Developer,3.0,2.0,Middle,Python,SQL,65000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+221,01-12-2020,28,Female,Berlin,Data Analyst,3.0,2.5,Middle,SQL,SQL,53000.0,0.0,43000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,1500
+222,26-11-2020,28,Male,Berlin,Data Engineer,6.0,1.5,Middle,Python,SQL,83000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,20.0,1500
+223,25-11-2020,28,Male,Berlin,Data Engineer,5.0,1.0,Middle,Scala,SQL,65000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,500
+224,25-11-2020,28,Male,Berlin,QA Engineer,5.0,1.0,Middle,QA,SQL,60000.0,0.0,58000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+225,24-11-2020,28,Male,Berlin,SRE,6.0,1.5,Middle,Kubernetes,SQL,66000.0,122.13,66000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+230,26-11-2020,28,Male,Berlin,DevOps,10.0,5.0,Senior,Missing_Values,SQL,90000.0,0.0,80000.0,0.0,n,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+231,21-12-2020,28,Female,Berlin,Frontend Developer,5.0,2.0,Senior,JavaScript,SQL,64000.0,2000.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+232,24-11-2020,28,Female,Berlin,Designer (UI/UX),7.0,7.0,Middle,Figma,SQL,45000.0,0.0,37000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+233,24-11-2020,28,Female,Berlin,Designer (UI/UX),7.0,7.0,Middle,Figma,SQL,45000.0,0.0,37000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+235,16-12-2020,28,Male,Berlin,Frontend Developer,7.0,5.0,Middle,React.js,SQL,62000.0,700.0,63000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+236,25-11-2020,28,Female,Berlin,Frontend Developer,3.0,3.0,Middle,JavaScript,SQL,54500.0,0.0,52000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+240,24-11-2020,28,Male,Berlin,Software Engineer,8.0,3.0,Lead,PHP,SQL,80000.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+242,25-11-2020,28,Male,Berlin,Technical account manager ,4.0,2.0,WorkingStudent,Missing_Values,SQL,57000.0,0.0,45000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,500
+245,25-11-2020,28,Male,Berlin,Software Engineer,6.0,2.0,Middle,PHP,SQL,60000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,E-commerce,No,40.0,0
+246,01-12-2020,28,Male,Berlin,Data Scientist,6.0,6.0,Lead,Python,SQL,78000.0,0.0,78000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Consulting and Product,No,0.0,0
+249,12-12-2020,28,Male,Brussels,Robotics Engineer,3.0,0.0,Middle,C++,SQL,45000.0,0.0,45000.0,0.0,y,Full-time employee,Unlimited contract,English,10,Startup,No,0.0,0
+250,02-12-2020,28,Male,Cologne,Software Engineer,5.0,1.0,Middle,Java ,SQL,50000.0,50000.0,50000.0,50000.0,y,Full-time employee,Unlimited contract,Russian,1000,Product,No,0.0,0
+251,25-11-2020,28,Male,Cologne,Backend Developer,4.0,4.0,Middle,Java ,SQL,44000.0,6000.0,44000.0,6000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+254,25-11-2020,28,Male,Frankfurt,Frontend Developer,7.0,5.0,Senior,JavaScript,SQL,80000.0,0.0,76000.0,4000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+255,27-11-2020,28,Male,Frankfurt,Mobile Developer,5.0,1.0,Senior,Swift,Objective-C,50000.0,0.0,50000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,0.0,0
+257,25-11-2020,28,Male,Karlsruhe,Backend Developer,7.0,3.0,Senior,Java ,SQL,66000.0,3000.0,66000.0,76000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+258,24-11-2020,28,Male,Kyiv,Mobile Developer,5.0,0.0,Senior,Swift,Objective-C,45000.0,0.0,30000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+262,24-11-2020,28,Male,Munich,Software Engineer,5.0,6.0,Senior,C++,SQL,67000.0,2000.0,44000.0,2500.0,y,Self-employed,Unlimited contract,English,10,Startup,Yes,0.0,0
+263,25-11-2020,28,Male,Munich,Software Engineer,5.0,4.0,Middle,Java ,SQL,56000.0,8000.0,52000.0,7000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+265,26-11-2020,28,Male,Munich,Frontend Developer,5.0,5.0,Middle,JavaScript,SQL,72000.0,0.0,62000.0,6200.0,y,Full-time employee,Unlimited contract,German,50,Product,No,0.0,0
+266,25-11-2020,28,Female,Munich,QA Engineer,8.0,4.0,Senior,Kotlin ,SQL,75000.0,0.0,64000.0,6000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+267,07-01-2021,28,Male,Munich,Software Engineer,7.0,3.0,Middle,Java ,SQL,63000.0,4000.0,63000.0,4000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+268,24-11-2020,28,Male,Munich,Backend Developer,5.0,4.0,Senior,Kotlin ,SQL,72000.0,0.0,56000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+269,24-11-2020,28,Male,Munich,Mobile Developer,5.0,3.0,Senior,iOS,Objective-C,57000.0,8000.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+272,24-11-2020,28,Female,Munich,QA Engineer,6.0,2.0,Middle,Missing_Values,SQL,65000.0,3000.0,42000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1600
+274,01-12-2020,28,Male,Munich,Software Engineer,3.0,3.0,Junior,.NET,SQL,65000.0,13000.0,65000.0,13000.0,y,Full-time employee,Unlimited contract,English,10000,Finance,No,0.0,0
+275,26-11-2020,28,Male,Munich,IT Manager,6.0,3.0,Middle,Missing_Values,SQL,65000.0,10000.0,58000.0,65000.0,y,Full-time employee,Unlimited contract,English,100,Consulting and Product,No,0.0,0
+276,24-11-2020,28,Male,Munich,Backend Developer,6.0,5.0,Senior,Java ,SQL,70000.0,2000.0,57000.0,1500.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,0
+277,24-11-2020,28,Male,Munich,Network Engineer ,9.0,3.0,Senior,Network Automation,SQL,61200.0,7300.0,53300.0,6200.0,y,Full-time employee,Unlimited contract,English,10000,Automotive,No,0.0,0
+278,25-11-2020,28,Male,Rome,ML Engineer,2.0,0.0,Middle,Java ,SQL,36000.0,2400.0,28000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+279,20-12-2020,28,Male,Sevilla,Database Engineer,4.0,0.0,Middle,GCP,SQL,30000.0,0.0,30000.0,0.0,y,Full-time employee,Unlimited contract,Spanish,100,Consulting and Product,No,0.0,0
+280,24-11-2020,28,Male,Stuttgart,Backend Developer,5.0,1.5,Middle,Java ,SQL,55000.0,5000.0,42000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+282,30-11-2020,28,Male,Warsaw,Data Scientist,3.0,0.0,Middle,Python,SQL,50000.0,10000.0,30000.0,30000.0,y,Self-employed,Unlimited contract,English,1000,Product,No,0.0,0
+283,27-11-2020,28,Male,Warsaw,Software Engineer,6.0,0.0,Middle,C#,SQL,52800.0,4400.0,47500.0,3900.0,y,Full-time employee,Unlimited contract,English,100,Consulting and Product,No,0.0,0
+286,25-11-2020,28,Male,Wolfsburg,Software Engineer,3.0,1.0,Middle,Java ,SQL,42000.0,0.0,42000.0,800.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,1000
+290,30-11-2020,29,Male,Berlin,Data Scientist,5.0,2.0,Senior,Python,SQL,75000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,Yes,20.0,0
+291,30-11-2020,29,Male,Berlin,Backend Developer,9.0,6.0,Senior,Java ,SQL,75000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,Yes,32.0,0
+292,24-11-2020,29,Female,Berlin,QA Engineer,8.0,5.0,Senior,Missing_Values,SQL,60000.0,0.0,52000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,Yes,0.0,0
+295,25-11-2020,29,Male,Berlin,Data Engineer,3.0,3.0,Middle,Azure,SQL,54000.0,6000.0,45000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Utilities,No,0.0,0
+297,25-11-2020,29,Female,Berlin,Software Developer in Test,9.0,4.0,Lead,Java ,SQL,66000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+298,25-11-2020,29,Male,Berlin,Backend Developer,10.0,5.0,Senior,Scala,SQL,78000.0,2000.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+301,24-11-2020,29,Male,Berlin,QA Engineer,9.0,2.0,Senior,Missing_Values,SQL,62000.0,8000.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+302,24-11-2020,29,Male,Berlin,Software Engineer,7.0,5.0,Senior,Python,SQL,64000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+303,25-11-2020,29,Male,Berlin,Data Engineer,5.0,5.0,Middle,Python,SQL,68000.0,0.0,55000.0,0.0,n,Full-time employee,Unlimited contract,English,10000,Startup,No,28.0,1000
+304,25-11-2020,29,Male,Berlin,Designer (UI/UX),6.0,2.0,Middle,Missing_Values,SQL,56000.0,0.0,54000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,15.0,0
+305,30-11-2020,29,Male,Berlin,Product Manager,5.0,5.0,Middle,Missing_Values,SQL,57750.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,340
+308,26-11-2020,29,Female,Berlin,Software Engineer,5.0,2.0,Middle,PHP,SQL,55000.0,0.0,47000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+310,30-11-2020,29,Male,Berlin,AI Management,6.0,6.0,Head,Python,SQL,92000.0,14000.0,75000.0,78000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+311,29-11-2020,29,Male,Berlin,Frontend Developer,8.0,7.0,Senior,JavaScript,SQL,77250.0,87250.0,65000.0,72000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,600
+312,24-11-2020,29,Male,Berlin,Software Engineer,12.0,3.0,Senior,Go,SQL,75000.0,75000.0,70000.0,70000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,1000
+313,27-12-2020,29,Male,Berlin,Software Engineer,9.0,5.0,Senior,C++,SQL,73000.0,16000.0,73000.0,16000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,32.0,0
+314,24-11-2020,29,Male,Berlin,Software Engineer,8.0,2.0,Senior,Go,SQL,70000.0,5000.0,70000.0,5000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,32.0,0
+315,24-11-2020,29,Male,Berlin,Backend Developer,11.0,2.0,Senior,Python,SQL,85000.0,4000.0,85000.0,4000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+316,25-11-2020,29,Male,Berlin,Frontend Developer,3.0,3.0,Middle,React.js,SQL,43000.0,4300.0,43000.0,4000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+317,30-12-2020,29,Male,Berlin,Backend Developer,5.0,5.0,Senior,Go,SQL,75000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,28.0,0
+318,24-11-2020,29,Male,Berlin,Backend Developer,8.0,1.5,Middle,Go,SQL,65000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+319,25-11-2020,29,Male,Berlin,Frontend Developer,8.0,5.0,Head,JavaScript,SQL,82500.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+320,24-11-2020,29,Male,Berlin,Backend Developer,8.0,2.0,Senior,PHP,SQL,56000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,30.0,0
+321,24-11-2020,29,Male,Berlin,Backend Developer,9.0,5.0,Senior,Java ,SQL,85000.0,0.0,66000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+324,24-11-2020,29,Male,Berlin,Data Scientist,4.0,4.0,Senior,Python,SQL,81000.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,300
+325,24-11-2020,29,Male,Berlin,Frontend Developer,7.0,2.0,Senior,React.js,SQL,72000.0,12000.0,63000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1000
+327,25-11-2020,29,Male,Berlin,Mobile Developer,5.0,4.0,Senior,iOS,Objective-C,65000.0,0.0,58000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+328,24-11-2020,29,Male,Berlin,Mobile Developer,8.0,4.0,Senior,Kotlin ,SQL,65000.0,0.0,52000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+330,24-11-2020,29,Male,Berlin,Software Engineer,5.0,3.0,Senior,Go,SQL,75000.0,0.0,58000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+332,01-12-2020,29,Male,Berlin,Frontend Developer,5.0,5.0,Middle,JavaScript,SQL,66000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+336,24-11-2020,29,Male,Berlin,DevOps,7.0,1.0,Lead,Kubernetes,SQL,78000.0,10000.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+338,24-11-2020,29,Male,Berlin,Software Engineer,6.0,4.0,Lead,Go,SQL,85000.0,5000.0,78000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,1100
+340,08-12-2020,29,Male,Berlin,DevOps,7.0,3.0,Senior,Kubernetes,SQL,82000.0,0.0,78000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,32.0,500
+344,24-11-2020,29,Male,Bonn,Mobile Developer,5.0,2.0,Middle,Objective-C,Objective-C,55000.0,4000.0,55000.0,1800.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+345,30-11-2020,29,Male,Bonn,Data Scientist,2.0,2.0,Middle,Python,SQL,55200.0,0.0,50000.0,0.0,y,Full-time employee,Temporary contract,English,10000,Product,No,0.0,0
+348,07-12-2020,29,Male,Darmstadt,Data Scientist,5.0,2.0,Middle,Python,SQL,65000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,1500
+349,07-12-2020,29,Male,Darmstadt,Data Scientist,5.0,2.0,Middle,Python,SQL,65000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,1500
+352,24-11-2020,29,Male,Hamburg,Backend Developer,7.0,3.0,Middle,Ruby on Rails,SQL,60350.0,0.0,58000.0,500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+355,30-11-2020,29,Male,Karlsruhe,DevOps,6.0,5.0,Senior,PHP,SQL,64800.0,9450.0,58800.0,7050.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,1000
+356,24-11-2020,29,Male,Konstanz,Mobile Developer,6.0,3.0,Middle,Android,SQL,53000.0,0.0,53000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,20.0,0
+359,25-11-2020,29,Male,Milano,Data Scientist,4.0,0.0,Middle,Python,SQL,37500.0,0.0,35000.0,0.0,y,Full-time employee,Unlimited contract,Italian,1000,Consulting and Product,No,0.0,0
+361,27-11-2020,29,Male,Munich,Software Engineer,4.0,4.0,Middle,R,SQL,78000.0,4000.0,78000.0,4000.0,y,Full-time employee,Unlimited contract,English,10000,Semiconductor,No,0.0,0
+362,24-11-2020,29,Male,Munich,Software Architect,8.0,3.0,Senior,C++,SQL,73000.0,400.0,59000.0,60000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+363,29-12-2020,29,Male,Munich,Data Scientist,6.0,5.0,Middle,SQL,SQL,70000.0,30000.0,60000.0,15000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,300
+364,24-11-2020,29,Male,Munich,Backend Developer,8.0,4.0,Senior,Java ,SQL,95000.0,7000.0,74000.0,6000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+365,24-11-2020,29,Female,Munich,Software Engineer,5.0,4.0,Middle,Node.js,SQL,67000.0,5000.0,65000.0,4000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+366,24-11-2020,29,Male,Munich,Software Engineer,7.0,3.0,Senior,JavaScript,SQL,80000.0,5000.0,72000.0,2500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1000
+368,24-11-2020,29,Male,Munich,Frontend Developer,5.0,3.0,Middle,JavaScript,SQL,57000.0,0.0,57000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+369,25-11-2020,29,Male,Munich,Software Engineer,8.0,6.0,Middle,PHP,SQL,75000.0,0.0,66000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+370,27-11-2020,29,Male,Munich,Data Scientist,4.0,4.0,Middle,Python,SQL,61500.0,66500.0,53000.0,58000.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,4.0,0
+373,25-11-2020,29,Male,Stuttgart ,Software Engineer,7.0,5.0,Middle,C++,SQL,70000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+374,25-11-2020,29,Male,Tallinn,Mobile Developer,7.0,0.0,Senior,Android,SQL,65000.0,20000.0,65000.0,12000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,32.0,0
+375,24-11-2020,30,Male,Amsterdam,Software Engineer,4.0,3.0,Junior,PHP,SQL,42000.0,0.0,36000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+376,30-11-2020,30,Male,Barcelona,Data Scientist,5.0,0.0,Senior,R,SQL,40000.0,0.0,40000.0,0.0,y,Full-time employee,Unlimited contract,Spanish,10000,Consulting and Product,No,0.0,0
+377,25-11-2020,30,Male,Berlin,Data Scientist,6.0,3.0,Senior,Missing_Values,SQL,72000.0,85000.0,65000.0,65000.0,y,Full-time employee,Unlimited contract,English,10000,Startup,No,0.0,0
+378,24-12-2020,30,Male,Berlin,Consultant,3.0,3.0,Middle,Java ,SQL,58000.0,0.0,42000.0,50000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,400
+379,14-12-2020,30,Male,Berlin,Data Scientist,4.5,2.5,Middle,Python,SQL,60000.0,10000.0,60000.0,7500.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,30.0,0
+380,24-11-2020,30,Male,Berlin,Software Engineer,10.0,5.0,Lead,Python,SQL,78000.0,1000.0,75000.0,1000.0,n,Full-time employee,Unlimited contract,English,1000,Startup,No,30.0,0
+381,30-11-2020,30,Male,Berlin,ML Engineer,6.0,2.0,Middle,Python,SQL,59000.0,0.0,54000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+384,24-11-2020,30,Male,Berlin,Mobile Developer,3.0,2.0,Senior,Swift,SQL,58000.0,0.0,52000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+385,26-11-2020,30,Male,Berlin,QA Engineer,8.0,3.0,Senior,Python,SQL,68000.0,0.0,66000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+386,30-11-2020,30,Male,Berlin,Software Engineer,7.0,1.0,Senior,Python,SQL,49000.0,0.0,39000.0,0.0,y,Full-time employee,Temporary contract,English,50,Startup,No,40.0,0
+388,25-11-2020,30,Male,Berlin,Software Engineer,10.0,4.0,Senior,Java ,SQL,70000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+389,24-11-2020,30,Male,Berlin,Software Engineer,11.0,2.0,Senior,Kotlin ,SQL,55000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+391,27-11-2020,30,Female,Berlin,ML Engineer,5.0,1.5,Middle,Python,SQL,51000.0,0.0,46000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+393,01-01-2021,30,Male,Berlin,Backend Developer,10.0,4.0,Lead,Java ,SQL,82000.0,0.0,73000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,28.0,0
+394,26-11-2020,30,Male,Berlin,Backend Developer,9.0,3.0,Head,Java ,SQL,85000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+395,28-11-2020,30,Male,Berlin,Head of BI,7.0,7.0,Head,Python,SQL,100000.0,0.0,100000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+398,18-12-2020,30,Male,Berlin,Backend Developer,9.0,5.0,Senior,Scala,SQL,85000.0,90000.0,82000.0,87000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,600
+399,25-12-2020,30,Male,Berlin,Software Engineer,11.0,1.0,Senior,Java ,SQL,90000.0,90000.0,80000.0,80000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,40
+400,24-11-2020,30,Male,Berlin,Backend Developer,6.0,2.0,Senior,Ruby on Rails,SQL,75000.0,75000.0,65000.0,65000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+401,25-11-2020,30,Female,Berlin,Data Scientist,6.0,5.0,Senior,Python,SQL,76000.0,10000.0,63000.0,63000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,700
+402,24-11-2020,30,Male,Berlin,Software Engineer,6.0,3.0,Senior,Java ,SQL,74000.0,15000.0,54000.0,54000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+403,26-11-2020,30,Male,Berlin,DevOps,7.0,1.0,Senior,Missing_Values,SQL,70000.0,10000.0,70000.0,10000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+404,25-11-2020,30,Male,Berlin,Frontend Developer,11.0,5.0,Senior,TypeScript,SQL,74000.0,11000.0,72000.0,10000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,900
+405,01-12-2020,30,Male,Berlin,Software Engineer,9.0,9.0,Lead,Missing_Values,SQL,90000.0,0.0,81000.0,9500.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+406,26-11-2020,30,Male,Berlin,Backend Developer,8.0,2.0,Middle,Python,SQL,74000.0,11000.0,72000.0,5000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,40
+407,24-11-2020,30,Female,Berlin,QA Engineer,5.0,3.0,Middle,Python,SQL,50000.0,4000.0,50000.0,4000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+408,24-11-2020,30,Male,Berlin,Software Engineer,8.0,3.0,Senior,JavaScript,SQL,80000.0,0.0,72000.0,3500.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+409,24-11-2020,30,Male,Berlin,Backend Developer,7.0,2.0,Senior,Ruby on Rails,SQL,72000.0,0.0,66000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+410,26-11-2020,30,Male,Berlin,Frontend Developer,6.0,1.0,Senior,JavaScript,SQL,79000.0,10000.0,77000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,700
+411,25-11-2020,30,Male,Berlin,Frontend Developer,4.0,2.0,Senior,TypeScript,SQL,73000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,32.0,0
+412,25-11-2020,30,Male,Berlin,Software Engineer,8.0,2.0,Senior,JavaScript,SQL,60000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,20.0,0
+413,02-12-2020,30,Male,Berlin,Backend Developer,4.0,2.0,Middle,Python,SQL,58000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,500
+414,30-11-2020,30,Male,Berlin,Software Engineer,9.0,1.0,Middle,TypeScript,SQL,77000.0,0.0,74000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+415,24-11-2020,30,Male,Berlin,DevOps,9.0,5.0,Lead,Kubernetes,SQL,90000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+416,30-12-2020,30,Female,Berlin,Frontend Developer,3.0,3.0,Lead,JavaScript,SQL,57600.0,0.0,51200.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+417,24-11-2020,30,Male,Berlin,Backend Developer,8.0,2.5,Senior,Scala,SQL,80000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+419,27-11-2020,30,Male,Berlin,DevOps,11.0,2.0,Senior,Missing_Values,SQL,80000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+422,04-12-2020,30,Female,Berlin,Software Engineer,7.0,3.0,Senior,Java ,SQL,60000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+423,24-11-2020,30,Male,Berlin,Software Engineer,10.0,2.0,Senior,Scala,SQL,72000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+424,24-11-2020,30,Female,Berlin,Software Engineer,8.0,2.0,Senior,Scala,SQL,75000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+425,25-11-2020,30,Male,Berlin,Software Engineer,7.0,1.0,Senior,Java ,SQL,86000.0,0.0,82600.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+426,15-01-2021,30,Male,Berlin,SRE,10.0,5.0,Senior,Kubernetes,SQL,68000.0,0.0,68000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+431,25-11-2020,30,Female,Berlin,Software Engineer,4.0,4.0,Middle,Python,SQL,56000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+432,02-12-2020,30,Male,Berlin,Software Engineer,10.0,2.0,Middle,iOS,SQL,71000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+438,29-11-2020,30,Female,Cologne,Data Scientist,8.0,7.0,Senior,Python,SQL,85000.0,7000.0,83200.0,6800.0,y,Full-time employee,Unlimited contract,English,10000,Utilities,No,0.0,0
+439,07-12-2020,30,Male,Cologne,technical business analyst,5.0,5.0,Middle,Missing_Values,SQL,69000.0,5000.0,63000.0,0.0,y,Full-time employee,Unlimited contract,German,10,Product,No,0.0,0
+442,30-11-2020,30,Male,Frankfurt,Data Scientist,5.0,4.0,Middle,Python,SQL,52500.0,0.0,52500.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,16.0,0
+443,30-11-2020,30,Male,Frankfurt,Big Data Engineer,3.0,3.0,Middle,Python,SQL,65000.0,3000.0,47000.0,47000.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,0
+444,24-11-2020,30,Female,Frankfurt,QA Engineer,6.0,4.0,Senior,Bash,SQL,70000.0,2000.0,70000.0,2000.0,y,Full-time employee,Unlimited contract,German,10000,Bank ,No,0.0,0
+445,27-11-2020,30,Male,Hamburg,Data Scientist,5.0,4.0,Head,Python,SQL,80000.0,90000.0,70000.0,80000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,25.0,0
+446,07-12-2020,30,Male,Hamburg,Data Scientist,5.0,5.0,Middle,Python,SQL,55000.0,60000.0,55000.0,55000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+451,27-11-2020,30,Male,Hannover,Software Engineer,5.0,3.0,Middle,Python,SQL,45000.0,0.0,45000.0,0.0,y,Full-time employee,Unlimited contract,English,10,Startup,No,8.0,0
+452,01-12-2020,30,Male,Heidelberg,Software Engineer,9.0,4.0,Senior,.NET,SQL,60000.0,2000.0,55000.0,0.0,y,Full-time employee,Temporary contract,English,10000,Research,No,0.0,0
+453,01-12-2020,30,Male,Heidelberg,Software Engineer,9.0,4.0,Senior,.NET,SQL,60000.0,2000.0,55000.0,0.0,y,Full-time employee,Temporary contract,English,10000,Research,No,0.0,0
+458,24-11-2020,30,Male,Moscow,Backend Developer,2.0,0.0,Junior,Elixir,SQL,50000.0,55000.0,18000.0,18000.0,y,Self-employed,Unlimited contract,English,1000,Product,No,0.0,0
+460,24-11-2020,30,Male,Munich,Mobile Developer,8.0,2.0,Lead,Swift,Objective-C,75000.0,86000.0,60000.0,65000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+461,30-11-2020,30,Male,Munich,Data Scientist,2.0,2.0,Middle,Python,SQL,50000.0,5000.0,45000.0,5000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,36.0,0
+463,24-11-2020,30,Male,Munich,Software Engineer,7.0,5.0,Senior,C++,SQL,100000.0,75000.0,97000.0,70000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+464,24-11-2020,30,Male,Munich,DevOps,8.0,2.0,Middle,Missing_Values,SQL,70200.0,75000.0,63000.0,63000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+465,24-11-2020,30,Male,Munich,Hardware Engineer,5.0,5.0,Senior,VHDL,SQL,75000.0,10000.0,73000.0,8000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+466,25-11-2020,30,Male,Munich,Software Engineer,10.0,4.0,Senior,.NET,SQL,75000.0,5000.0,75000.0,7000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+467,24-11-2020,30,Female,Munich,Mobile Developer,10.0,3.5,Senior,Swift,SQL,65000.0,5000.0,65000.0,5000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+468,01-12-2020,30,Female,Munich,Frontend Developer,9.0,3.0,Senior,JavaScript,SQL,60000.0,4000.0,51000.0,4000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+469,30-12-2020,30,Male,Munich,Software Engineer,8.0,1.0,Senior,PHP,SQL,68000.0,1500.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+470,24-11-2020,30,Male,Munich,Frontend Developer,9.0,3.0,Middle,TypeScript,SQL,66000.0,0.0,64000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+476,07-12-2020,30,Male,Munich,DevOps,10.0,3.0,Lead,Missing_Values,SQL,85000.0,25.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+477,29-11-2020,30,Female,Munich,Software Engineer,8.0,2.0,Senior,Java ,SQL,52000.0,0.0,52000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Consulting and Product,No,0.0,0
+479,24-11-2020,30,Male,Rosenheim,Software Engineer,9.0,5.0,Middle,Java ,SQL,63000.0,0.0,57600.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+480,25-11-2020,30,Male,Stockholm,Backend Developer,7.0,2.5,Senior,C++,SQL,65000.0,9000.0,60000.0,9000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+481,30-11-2020,30,Female,Stockholm,QA Engineer,7.0,1.0,Senior,Python,SQL,48000.0,0.0,45600.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+482,25-11-2020,30,Male,Stuttgart,Software Engineer,8.0,0.0,Middle,C++,SQL,71000.0,7100.0,69000.0,6900.0,n,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+483,24-11-2020,30,Male,Utrecht,Data Scientist,2.0,0.0,Middle,Python,SQL,48000.0,10000.0,41000.0,6000.0,y,Full-time employee,Temporary contract,English,10000,Product,No,0.0,0
+485,08-12-2020,31,Female,Berlin,Product Manager,4.0,0.0,Middle,Missing_Values,SQL,60000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,Yes,0.0,0
+486,18-01-2021,31,Male,Berlin,Backend Developer,9.0,5.0,Senior,Java ,SQL,70000.0,72000.0,70000.0,72000.0,y,Full-time employee,Unlimited contract,English,100,Product,Yes,0.0,0
+487,27-11-2020,31,Male,Berlin,Software Engineer,7.0,5.0,Lead,Python,SQL,80000.0,10000.0,85000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,Yes,0.0,600
+488,25-11-2020,31,Female,Berlin,QA Engineer,11.0,1.5,Middle,JavaScript,SQL,57000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+489,25-11-2020,31,Male,Berlin,Software Engineer,9.0,5.0,Lead,JavaScript,SQL,99000.0,99000.0,89000.0,89000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+490,30-11-2020,31,Male,Berlin,Data Analyst,7.0,6.0,Senior,SQL,SQL,83000.0,20000.0,75000.0,20000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+492,02-12-2020,31,Male,Berlin,Software Engineer,4.0,4.0,Senior,Python,SQL,68000.0,0.0,64000.0,1000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+493,24-11-2020,31,Female,Berlin,Analyst,6.0,2.0,Middle,SQL,SQL,60000.0,0.0,50000.0,500.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,500
+494,24-11-2020,31,Male,Berlin,Frontend Developer,10.0,1.5,Senior,JavaScript,SQL,71060.0,101.0,67500.0,101.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,200
+495,03-12-2020,31,Male,Berlin,Backend Developer,9.0,1.0,Senior,Node.js,SQL,65000.0,5000.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,30.0,0
+496,24-11-2020,31,Male,Berlin,DevOps,11.0,4.0,Senior,Terraform,SQL,81000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,30.0,0
+497,24-11-2020,31,Male,Berlin,Software Engineer,4.0,2.0,Lead,Java ,SQL,95000.0,0.0,89000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Startup,No,0.0,0
+501,24-12-2020,31,Male,Berlin,Software Engineer,9.0,5.0,Senior,Scala,SQL,85000.0,0.0,82000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,24.0,0
+503,24-11-2020,31,Female,Berlin,Graphic Designer,11.0,2.0,Middle,Missing_Values,SQL,32000.0,0.0,21800.0,0.0,y,Full-time employee,Temporary contract,English,1000,Startup,No,0.0,0
+504,24-11-2020,31,Male,Berlin,Engineering Manager,11.0,6.0,Lead,Java ,SQL,80000.0,0.0,79000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,40.0,200
+505,24-11-2020,31,Male,Berlin,Software Engineer,7.0,3.0,Lead,Python,SQL,76000.0,10000.0,69000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+507,26-11-2020,31,Female,Berlin,Software Engineer,1.0,1.0,Junior,React.js,SQL,57000.0,1000.0,54000.0,1000.0,y,Full-time employee,Unlimited contract,English,10000,Retail,No,0.0,0
+508,30-11-2020,31,Male,Berlin,Software Engineer,6.0,4.0,Senior,Kotlin ,SQL,90000.0,99000.0,80000.0,80000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,300
+510,25-11-2020,31,Male,Berlin,Mobile Developer,10.0,3.0,Senior,Swift,Objective-C,80000.0,13500.0,64000.0,64000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1750
+512,25-11-2020,31,Male,Berlin,Software Engineer,4.0,2.0,Middle,Java ,SQL,67000.0,70500.0,50000.0,55000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+513,19-12-2020,31,Male,Berlin,ML Engineer,5.0,2.5,Middle,Python,SQL,77500.0,78000.0,54000.0,54000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,700
+514,02-12-2020,31,Male,Berlin,Software Engineer,7.0,2.0,Senior,Java ,SQL,75000.0,12500.0,75000.0,12500.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+515,25-11-2020,31,Male,Berlin,Data Scientist,5.0,3.0,Middle,Python,SQL,90000.0,18000.0,90000.0,12000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+516,28-11-2020,31,Male,Berlin,Backend Developer,9.0,9.0,Senior,Grails,SQL,67473.0,0.0,63000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+517,25-11-2020,31,Male,Berlin,Frontend Developer,8.0,3.5,Senior,TypeScript,SQL,60000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+518,25-11-2020,31,Male,Berlin,Software Engineer,8.0,1.0,Senior,Java ,SQL,77000.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+519,28-12-2020,31,Male,Berlin,Backend Developer,4.0,2.0,Middle,Ruby on Rails,SQL,50000.0,0.0,50000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+520,07-12-2020,31,Male,Berlin,Data Engineer,4.0,2.0,Middle,Python,SQL,50000.0,0.0,45000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,40.0,200
+521,26-11-2020,31,Male,Berlin,ML Engineer,7.0,2.0,Middle,Python,SQL,80000.0,12000.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+522,25-11-2020,31,Male,Berlin,ML Engineer,4.0,4.0,Junior,Python,SQL,62000.0,8000.0,50000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+523,27-11-2020,31,Male,Berlin,Backend Developer,5.0,2.0,Senior,Python,SQL,77000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,40
+524,24-11-2020,31,Male,Berlin,Data Engineer,9.0,5.0,Senior,Python,SQL,81000.0,12150.0,80600.0,0.0,n,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+525,24-11-2020,31,Male,Berlin,Mobile Developer,7.0,3.0,Senior,iOS,Objective-C,80000.0,0.0,72500.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,20.0,0
+527,24-11-2020,31,Male,Berlin,QA Engineer,10.0,5.0,Senior,Python,SQL,60000.0,77000.0,67500.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+528,26-11-2020,31,Male,Berlin,Software Engineer,12.0,2.0,Senior,Java ,SQL,60000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+529,24-11-2020,31,Male,Berlin,Software Engineer,9.0,4.0,Senior,Python,SQL,90000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1000
+530,05-12-2020,31,Male,Berlin,Software Engineer,4.0,1.0,Senior,Java ,SQL,69000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+532,14-01-2021,31,Female,Berlin,Data Scientist,4.0,3.0,Middle,Spark,SQL,50500.0,0.0,49000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+533,25-11-2020,31,Male,Berlin,Data Scientist,6.0,2.5,Senior,Missing_Values,SQL,78000.0,0.0,76000.0,0.0,n,Full-time employee,Unlimited contract,English,10000,E-commerce,No,0.0,0
+534,25-11-2020,31,Male,Boeblingen,QA Engineer,6.0,3.0,Senior,Python,SQL,53000.0,0.0,53000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,0.0,0
+535,24-11-2020,31,Male,Dusseldorf,Software Engineer,7.0,3.0,Senior,C++,SQL,50400.0,50400.0,50000.0,50000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+539,25-11-2020,31,Male,Hamburg,ML Engineer,3.0,3.0,Lead,Python,SQL,70000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+540,25-11-2020,31,Male,Hamburg,Data Scientist,9.0,9.0,Middle,Python,SQL,50000.0,0.0,48000.0,0.0,y,Full-time employee,Unlimited contract,German,10,Product,No,0.0,0
+544,26-11-2020,31,Male,Minsk,Frontend Developer,6.0,0.0,Senior,TypeScript,SQL,110000.0,0.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+546,05-01-2021,31,Male,Munich,Backend Developer,10.0,7.0,Senior,Ruby on Rails,SQL,85000.0,85000.0,80000.0,80000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+547,24-11-2020,31,Male,Munich,Frontend Developer,12.0,1.5,Lead,TypeScript,SQL,85000.0,3000.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+548,27-11-2020,31,Male,Munich,ML Engineer,4.0,4.0,Senior,Python,SQL,100000.0,100000.0,86000.0,86000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+550,25-11-2020,31,Male,Munich,Software Engineer,3.0,3.0,Middle,JavaScript,SQL,63000.0,63909.0,50400.0,50400.0,y,Full-time employee,Unlimited contract,German,100,Product,No,0.0,0
+551,01-12-2020,31,Male,Munich,Software Engineer,5.0,2.0,Middle,Java ,SQL,74000.0,3000.0,68000.0,3000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+552,01-12-2020,31,Male,Munich,DevOps,8.0,2.0,Senior,Missing_Values,SQL,62000.0,4000.0,60000.0,2000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+553,24-11-2020,31,Female,Munich,Software Engineer,2.0,2.0,Middle,Java ,SQL,58000.0,3000.0,26000.0,1500.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+554,24-11-2020,31,Male,Munich,Backend Developer,11.0,1.0,Senior,PHP,SQL,80000.0,4000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+555,25-11-2020,31,Male,Munich,Frontend Developer,8.0,3.0,Senior,TypeScript,SQL,79000.0,5000.0,67000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+556,24-11-2020,31,Female,Munich,QA Engineer,7.0,3.0,Senior,Java ,SQL,68000.0,0.0,58000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,40.0,0
+557,24-11-2020,31,Male,Munich,Software Engineer,10.0,2.0,Senior,Java ,SQL,68000.0,0.0,68000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+558,24-11-2020,31,Female,Munich,Agile Coach,14.0,7.0,Middle,Python,SQL,80000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+561,30-11-2020,31,Male,Munich,Professor,10.0,2.0,Lead,Python,SQL,80000.0,0.0,78000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Education,No,0.0,0
+565,26-11-2020,31,Male,Nuremberg,QA Engineer,9.0,5.0,Middle,Java ,SQL,60000.0,65000.0,57000.0,59000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+566,25-11-2020,31,Male,Paris,Mobile Developer,8.0,0.0,Senior,Swift,Objective-C,60000.0,6000.0,60000.0,6000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+568,24-11-2020,31,Female,Stuttgart,Data Scientist,4.0,2.0,Middle,R,SQL,65000.0,73000.0,62000.0,68000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,35.0,0
+569,25-11-2020,31,Female,Ulm,QA Engineer,8.0,3.0,Middle,Java ,SQL,45000.0,0.0,39000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+570,24-11-2020,31,Male,Wolfsburg,Backend Developer,5.0,1.0,Senior,Kotlin ,SQL,75000.0,2000.0,75000.0,2000.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,0
+571,25-11-2020,32,Male,Amsterdam,Backend Developer,15.0,0.0,Senior,Golang ,SQL,90000.0,0.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+572,25-11-2020,32,Male,Amsterdam,Mobile Developer,13.0,0.0,Senior,Kotlin ,SQL,85000.0,89000.0,80000.0,84000.0,y,Full-time employee,Unlimited contract,English,10000,Bank,No,0.0,0
+573,24-11-2020,32,Male,Berlin,Frontend Developer,10.0,5.0,Senior,TypeScript,SQL,105000.0,0.0,80000.0,0.0,y,Self-employed,Temporary contract,English,1000,Product,Yes,0.0,5000
+577,06-12-2020,32,Male,Berlin,Designer (UI/UX),5.0,10.0,Senior,Java ,SQL,70000.0,5000.0,65000.0,5000.0,y,Self-employed,Unlimited contract,German,10,Startup,No,0.0,0
+578,24-11-2020,32,Male,Berlin,DevOps,5.0,1.0,Senior,AWS,SQL,76000.0,5000.0,76000.0,5000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+579,25-11-2020,32,Male,Berlin,QA Engineer,7.0,3.5,Senior,Swift,SQL,65000.0,0.0,62000.0,3000.0,y,Full-time employee,Temporary contract,English,100,Startup,No,0.0,0
+580,25-11-2020,32,Male,Berlin,Software Engineer,10.0,5.0,Middle,JavaScript,SQL,65000.0,5000.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,25.0,0
+581,07-12-2020,32,Male,Berlin,Backend Developer,10.0,5.0,Senior,Node.js,SQL,80000.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+582,26-11-2020,32,Male,Berlin,Senior Data Engineer,9.0,4.0,Senior,Python,SQL,90000.0,0.0,85000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+584,25-11-2020,32,Female,Berlin,Software Engineer,6.0,4.0,Lead,Java ,SQL,75000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,30.0,0
+586,30-11-2020,32,Male,Berlin,Data Engineer,7.0,5.0,Senior,Python,SQL,82000.0,82000.0,75000.0,80000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+588,25-11-2020,32,Male,Berlin,QA Engineer,10.0,3.0,Senior,JavaScript,SQL,81000.0,45000.0,81000.0,22000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1000
+589,18-12-2020,32,Male,Berlin,Software Engineer,11.0,1.0,Senior,Scala,SQL,72500.0,10000.0,70000.0,10000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,600
+590,26-11-2020,32,Male,Berlin,Frontend Developer,13.0,2.0,Senior,JavaScript,SQL,70000.0,1000.0,65000.0,1000.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+591,25-11-2020,32,Male,Berlin,Software Engineer,9.0,3.0,Lead,C++,SQL,73000.0,1000.0,65000.0,1000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,300
+592,24-11-2020,32,Female,Berlin,Mobile Developer,7.0,3.0,Senior,Kotlin ,SQL,63000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1100
+593,24-11-2020,32,Male,Berlin,Software Engineer,12.0,1.0,Senior,Java ,SQL,83000.0,500.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,40
+594,06-12-2020,32,Female,Berlin,Computational linguist,5.0,5.0,Middle,Java ,SQL,50400.0,0.0,50400.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,40.0,0
+595,13-12-2020,32,Female,Berlin,Software Engineer,2.0,2.0,Middle,JavaScript,SQL,63000.0,3000.0,50000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,100
+596,25-11-2020,32,Male,Berlin,Backend Developer,10.0,3.0,Lead,Ruby on Rails,SQL,80000.0,0.0,68500.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+597,03-12-2020,32,Male,Berlin,Software Engineer,13.0,5.0,Lead,JavaScript,SQL,83000.0,3000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+598,24-11-2020,32,Male,Berlin,Software Engineer,9.0,5.0,Lead,JavaScript,SQL,90000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+599,24-11-2020,32,Male,Berlin,Backend Developer,8.0,5.0,Senior,PHP,SQL,65000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+601,17-12-2020,32,Male,Berlin,Backend Developer,9.0,5.0,Senior,Scala,SQL,90000.0,0.0,87000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,650
+602,24-11-2020,32,Male,Berlin,DevOps,14.0,5.0,Senior,Missing_Values,SQL,67000.0,7000.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+603,09-12-2020,32,Male,Berlin,Mobile Developer,8.0,2.0,Senior,Swift,SQL,75000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+604,24-11-2020,32,Female,Berlin,QA Engineer,10.0,0.0,Senior,Java ,SQL,61000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+605,24-11-2020,32,Male,Berlin,Software Engineer,12.0,1.5,Senior,iOS,Objective-C,66800.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,20.0,1000
+607,24-11-2020,32,Male,Berlin,Backend Developer,5.0,3.0,Middle,Ruby on Rails,SQL,72000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+608,24-11-2020,32,Male,Berlin,Backend Developer,3.0,1.0,Middle,Java ,SQL,77000.0,0.0,62000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+609,26-11-2020,32,Female,Berlin,DevOps,9.0,5.0,Middle,Terraform,SQL,74000.0,10000.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+611,25-11-2020,32,Male,Berlin,Engineering Manager,10.0,5.0,Middle,JavaScript,SQL,85000.0,0.0,78000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,700
+612,25-11-2020,32,Female,Berlin,QA Engineer,10.0,1.0,Middle,Java ,SQL,68000.0,0.0,62000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+616,28-11-2020,32,Female,Berlin,QA Engineer,10.0,4.0,Lead,Java ,SQL,65000.0,6000.0,55000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+617,24-11-2020,32,Male,Berlin,Software Engineer,11.0,6.0,Lead,Android,SQL,80000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+618,24-11-2020,32,Male,Berlin,Data Scientist,10.0,10.0,Head,Missing_Values,SQL,110000.0,30000.0,85000.0,15000.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,0.0,0
+619,24-11-2020,32,Female,Berlin,Product Manager,10.0,4.0,Senior,Missing_Values,SQL,60000.0,6000.0,54000.0,5400.0,y,Full-time employee,Unlimited contract,English,100,Consulting and Product,No,0.0,0
+621,25-11-2020,32,Male,Cologne,DevOps,7.0,2.0,Middle,Kotlin ,SQL,60000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,Yes,0.0,0
+623,24-11-2020,32,Female,Cologne,Data Scientist,4.0,4.0,Senior,Python,SQL,85000.0,88000.0,76000.0,78000.0,y,Full-time employee,Unlimited contract,English,10000,consumer goods,No,0.0,0
+624,13-12-2020,32,Male,Copenhagen,Data Scientist,6.0,6.0,Senior,Python,SQL,92000.0,5000.0,90000.0,5000.0,y,Full-time employee,Unlimited contract,English,10,Startup,No,30.0,0
+625,24-11-2020,32,Male,Darmstadt,Software Engineer,11.0,7.0,Senior,.NET,SQL,60000.0,62000.0,47000.0,49000.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,0.0,0
+626,24-11-2020,32,Male,Frankfurt,Network Engineer ,10.0,2.0,Senior,Python,SQL,68500.0,6000.0,68500.0,70000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+628,30-11-2020,32,Male,Hamburg,Backend Developer,14.0,6.0,Lead,Java ,SQL,80000.0,5000.0,70000.0,5000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+629,25-11-2020,32,Male,Hamburg,Product Manager,7.0,2.0,Senior,Missing_Values,SQL,85000.0,5000.0,85000.0,5000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,350
+630,24-11-2020,32,Male,Hamburg,Software Engineer,12.0,7.0,Senior,Java ,SQL,66300.0,1000.0,65000.0,1000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,2000
+631,05-12-2020,32,Male,Hamburg,ML Engineer,4.0,1.5,Middle,Python,SQL,37500.0,0.0,34000.0,34000.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,0
+632,24-11-2020,32,Female,Hamburg,Data Engineer,2.0,2.0,Junior,AWS,SQL,52500.0,0.0,52500.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,0
+634,01-12-2020,32,Male,Innsbruck,Data Scientist,3.0,0.0,Senior,Python,SQL,62000.0,3000.0,62000.0,3000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,12.0,0
+636,25-11-2020,32,Female,Munich,Data Engineer,10.0,2.0,Middle,Python,SQL,75000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,Yes,0.0,0
+637,25-11-2020,32,Male,Munich,Software Engineer,7.0,1.0,Senior,Python,SQL,72000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,1500
+638,16-01-2021,32,Male,Munich,Software Engineer,10.0,5.0,Head,Scala,SQL,95000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+640,24-11-2020,32,Male,Munich,Software Engineer,10.0,6.0,Senior,Java ,SQL,88000.0,120000.0,86000.0,115000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+641,18-12-2020,32,Male,Munich,Software Engineer,13.0,7.0,Middle,Java ,SQL,95000.0,35000.0,79000.0,31000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,800
+642,07-12-2020,32,Male,Munich,Software Engineer,10.0,3.0,Lead,Swift,SQL,75000.0,5000.0,75000.0,5000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+643,24-11-2020,32,Male,Munich,Fullstack Developer,9.0,2.0,Senior,Java ,SQL,70000.0,4000.0,68000.0,3000.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+644,01-12-2020,32,Female,Munich,Data Scientist,5.0,5.0,Senior,Python,SQL,80000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+650,24-11-2020,32,Male,Munich,Software Engineer,7.0,3.0,Senior,Android,SQL,60000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,40.0,0
+653,01-12-2020,32,Male,Munich,Product Manager,4.0,4.0,Senior,Missing_Values,SQL,65000.0,65000.0,62000.0,62000.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,0.0,0
+654,02-12-2020,32,Female,Munich,It Consulting ,2.0,2.0,Junior,Test Management ,SQL,54000.0,1500.0,47000.0,700.0,y,Full-time employee,Unlimited contract,German,10000,Consulting and Product,No,0.0,150
+655,24-11-2020,32,Male,Munich,Frontend Developer,7.0,5.0,Senior,JavaScript,SQL,62000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,0
+660,26-11-2020,32,Male,Prague,Software Engineer,8.0,0.0,Senior,C,SQL,36000.0,3600.0,26000.0,2600.0,y,Full-time employee,Unlimited contract,Czech,10000,Product,No,0.0,0
+662,24-11-2020,32,Female,Stuttgart,Frontend Developer,2.0,2.0,Junior,Java ,SQL,52000.0,4000.0,48000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+663,24-11-2020,32,Male,Stuttgart,QA Engineer,9.0,9.0,Senior,Java ,SQL,60000.0,4700.0,67000.0,5000.0,y,Full-time employee,Unlimited contract,German,10000,Consulting and Product,No,40.0,50
+664,30-11-2020,32,Male,Vienna,DevOps,10.0,10.0,Lead,Java ,SQL,80000.0,40000.0,80000.0,35000.0,y,Full-time employee,Unlimited contract,German,10000,Transport,No,0.0,0
+665,26-11-2020,33,Male,Amsterdam,Backend Developer,8.0,0.0,Senior,C#,SQL,75000.0,0.0,56000.0,0.0,y,Full-time employee,Temporary contract,English,50,Product,No,0.0,0
+666,24-11-2020,33,Female,Berlin,QA Engineer,8.0,1.5,Senior,Missing_Values,SQL,50000.0,0.0,42000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,Yes,20.0,0
+668,06-12-2020,33,Male,Berlin,Head of IT,3.0,3.0,Head,Python,SQL,100000.0,20000.0,65000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Product,Yes,0.0,0
+669,25-11-2020,33,Male,Berlin,Data Engineer,13.0,3.0,Senior,Python,SQL,85000.0,5000.0,75000.0,75000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,20.0,500
+670,30-11-2020,33,Male,Berlin,Backend Developer,13.0,1.5,Senior,Python,SQL,83000.0,0.0,73000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,32.0,0
+671,25-11-2020,33,Male,Berlin,Software Engineer,10.0,3.0,Lead,JavaScript,SQL,75000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,36.0,0
+674,26-11-2020,33,Male,Berlin,Frontend Developer,10.0,4.0,Senior,JavaScript,SQL,74000.0,0.0,66000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,8.0,200
+676,24-11-2020,33,Male,Berlin,ML Engineer,10.0,5.0,Middle,Python,SQL,62000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,20.0,0
+678,24-11-2020,33,Female,Berlin,QA Engineer,9.0,2.0,Middle,Java ,SQL,57000.0,0.0,54000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+679,24-11-2020,33,Female,Berlin,Software Engineer,6.0,3.0,Middle,Java ,SQL,65000.0,0.0,54000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Startup,No,30.0,500
+681,24-11-2020,33,Male,Berlin,Tech Lead,10.0,2.0,Lead,Missing_Values,SQL,85000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Startup,No,0.0,0
+683,25-11-2020,33,Male,Berlin,DevOps,8.0,3.0,Senior,AWS,SQL,75000.0,1000.0,72500.0,0.0,y,Full-time employee,Unlimited contract,English,10000,service,No,0.0,500
+684,24-11-2020,33,Male,Berlin,Product Manager,5.0,5.0,Senior,Missing_Values,SQL,70000.0,800.0,65000.0,67000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+685,24-11-2020,33,Male,Berlin,Backend Developer,5.0,2.0,Middle,Java ,SQL,66000.0,70000.0,61000.0,61000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+686,24-11-2020,33,Female,Berlin,Software Engineer,12.0,5.0,Senior,Django,SQL,88000.0,35200.0,96000.0,20000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+687,11-12-2020,33,Male,Berlin,Backend Developer,8.0,6.0,Lead,Node.js,SQL,90000.0,20000.0,85000.0,20000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+688,25-11-2020,33,Male,Berlin,Software Engineer,16.0,5.0,Senior,Java ,SQL,83000.0,17000.0,80000.0,10000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,700
+690,25-11-2020,33,Male,Berlin,Software Engineer,10.0,6.0,Lead,C,SQL,95000.0,15000.0,75000.0,10000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,32.0,0
+691,26-11-2020,33,Male,Berlin,Software Engineer,10.0,5.0,Senior,Golang ,SQL,110000.0,7000.0,110000.0,7000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+692,24-11-2020,33,Male,Berlin,Mobile Developer,6.0,4.0,Middle,Swift,SQL,63000.0,6300.0,60000.0,6000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,850
+695,18-01-2021,33,Male,Berlin,Researcher,10.0,1.5,Senior,consumer analysis,SQL,60000.0,3000.0,48000.0,2500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+696,26-11-2020,33,Male,Berlin,Mobile Developer,8.0,2.0,Senior,Swift,SQL,75000.0,1000.0,75000.0,1000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+697,27-11-2020,33,Female,Berlin,Data Scientist,8.0,4.0,Senior,Python,SQL,77000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1700
+698,24-11-2020,33,Male,Berlin,Software Engineer,13.0,3.0,Senior,Ruby on Rails,SQL,75000.0,20000.0,68000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,600
+699,26-11-2020,33,Male,Berlin,Software Engineer,10.0,5.0,Senior,Python,SQL,80000.0,10000.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,700
+700,24-11-2020,33,Male,Berlin,Software Engineer,14.0,4.0,Senior,PHP,SQL,68000.0,0.0,68000.0,0.0,n,Full-time employee,Unlimited contract,English,100,Product,No,0.0,500
+701,24-11-2020,33,Male,Berlin,Software Engineer,16.0,10.0,Senior,Java ,SQL,90000.0,9000.0,78000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,8.0,180
+702,18-12-2020,33,Male,Berlin,Engineering Manager,15.0,4.0,Lead,Java ,SQL,85000.0,15000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,600
+703,24-11-2020,33,Male,Berlin,Engineering Manager,10.0,5.0,Director,PHP,SQL,100000.0,0.0,84000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,32.0,0
+705,25-11-2020,33,Male,Berlin,Backend Developer,13.0,5.0,Senior,Java ,SQL,78600.0,0.0,78600.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,32.0,0
+710,25-11-2020,33,Male,Berlin,Data Analyst,2.0,2.0,Middle,SQL,SQL,62000.0,0.0,50000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+711,24-11-2020,33,Male,Berlin,iOS Developer,10.0,2.0,Middle,Swift,SQL,67000.0,0.0,66000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+714,24-11-2020,33,Male,Berlin,Software Engineer,5.0,1.0,Middle,Python,SQL,65000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+715,24-11-2020,33,Male,Berlin,Backend Developer,12.0,6.0,Lead,PHP,SQL,65000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+716,24-11-2020,33,Male,Berlin,Software Engineer,7.0,7.0,Senior,Java ,SQL,62000.0,67000.0,52000.0,58000.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,0.0,0
+719,30-11-2020,33,Female,Brunswick,Software Engineer,6.0,4.0,Middle,C++,SQL,58000.0,6000.0,53000.0,14000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,1000
+722,26-11-2020,33,Male,Dusseldorf,Data Scientist,2.0,2.0,Lead,Spark,SQL,70000.0,6000.0,60000.0,66000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1000
+724,24-11-2020,33,Male,Frankfurt,Solution Architect,6.0,6.0,Middle,Python,SQL,85000.0,40000.0,78000.0,7000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+725,27-11-2020,33,Male,Frankfurt,Software Engineer,8.0,5.0,Senior,C#,SQL,67000.0,6000.0,63500.0,5000.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,1500
+728,24-11-2020,33,Male,Hamburg,Software Engineer,10.0,3.0,Senior,Ruby on Rails,SQL,75000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+731,28-11-2020,33,Male,Heilbronn,Senior Scrum Master ,7.0,7.0,Lead,C++,SQL,90000.0,0.0,104000.0,10000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,5.0,0
+733,24-11-2020,33,Male,Mannheim,Software Engineer,6.0,2.0,Middle,C#,.NET,49000.0,0.0,48000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,24.0,0
+734,22-12-2020,33,Male,Munich,Frontend Developer,10.0,6.0,Senior,JavaScript,SQL,100000.0,5000.0,90000.0,5000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+735,24-11-2020,33,Male,Munich,Backend Developer,15.0,3.0,Lead,Scala,SQL,100000.0,10000.0,98000.0,101.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+736,25-11-2020,33,Male,Munich,Software Engineer,13.0,4.0,Senior,Java ,SQL,70000.0,0.0,64000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+738,24-11-2020,33,Male,Munich,DevOps,15.0,4.0,Lead,Kubernetes,SQL,90000.0,10000.0,78000.0,85000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+740,08-01-2021,33,Female,Munich,Test manager,10.0,2.0,Junior,Java ,SQL,60000.0,60000.0,55000.0,60000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+741,24-11-2020,33,Male,Munich,Software Engineer,10.0,3.0,Senior,Java ,SQL,75000.0,7500.0,68000.0,6800.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,1500
+742,24-11-2020,33,Female,Munich,QA Engineer,6.5,3.0,Senior,Missing_Values,SQL,58000.0,3500.0,55000.0,3000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+743,28-11-2020,33,Male,Munich,SRE,10.0,4.0,Senior,PHP,SQL,79000.0,0.0,75000.0,3000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,28.0,0
+744,24-11-2020,33,Male,Munich,Business Analyst,10.0,4.0,Senior,Java ,SQL,70000.0,0.0,70000.0,850.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+745,25-11-2020,33,Male,Munich,Software Engineer,9.0,9.0,Lead,Java ,SQL,100000.0,0.0,100000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Product,No,0.0,0
+749,24-11-2020,33,Male,Munich,Software Engineer,10.0,4.0,Senior,C#,SQL,78000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Product,No,0.0,0
+751,25-11-2020,33,Male,Munich,Software Engineer,11.0,4.0,Lead,Frontend,SQL,90000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+752,25-12-2020,33,Female,Munich,Software Engineer,10.0,3.0,Senior,Java ,SQL,47500.0,0.0,47500.0,0.0,y,Full-time employee,Unlimited contract,English,50,Outsource,No,0.0,0
+753,27-11-2020,33,Male,Munich,Backend Developer,10.0,10.0,Senior,Java ,SQL,70000.0,0.0,70000.0,70000.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,20.0,0
+754,07-12-2020,33,Male,Munich,Software Engineer,5.0,5.0,Senior,C++,SQL,61000.0,63000.0,58000.0,60000.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,40.0,1500
+755,25-11-2020,33,Male,Nuremberg ,Data Scientist,2.0,2.0,Middle,Python,SQL,54000.0,0.0,54000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Market Research ,No,0.0,0
+756,25-11-2020,33,Male,Nuremberg ,Software Engineer,9.0,9.0,Senior,JavaScript,SQL,60000.0,25000.0,60000.0,17000.0,y,Full-time employee,Unlimited contract,German,10000,Consulting and Product,No,0.0,0
+757,26-11-2020,33,Male,Prague,Designer (UI/UX),7.0,0.0,Senior,Missing_Values,SQL,42000.0,0.0,39000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+758,22-12-2020,33,Male,Stuttgart,Team Lead,12.0,5.0,Lead,PHP,SQL,70200.0,0.0,70200.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,500
+759,30-11-2020,34,Male,Berlin,Backend Developer,14.0,6.0,Lead,Kotlin ,SQL,96000.0,100000.0,85000.0,90000.0,y,Full-time employee,Unlimited contract,English,10000,Startup,No,0.0,0
+760,24-11-2020,34,Male,Berlin,QA Engineer,10.0,4.0,Senior,Java ,SQL,75000.0,3000.0,65000.0,3000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+761,24-11-2020,34,Male,Berlin,Frontend Developer,10.0,3.0,Senior,Angular,SQL,68000.0,0.0,68000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,30.0,0
+762,06-01-2021,34,Male,Berlin,Frontend Developer,6.0,2.0,Middle,JavaScript,SQL,63000.0,0.0,58000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,32.0,0
+765,25-11-2020,34,Male,Berlin,QA Engineer,10.0,5.0,Lead,Java ,SQL,85000.0,0.0,73000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+766,28-11-2020,34,Male,Berlin,Software Engineer,16.0,5.0,Lead,Ruby on Rails,SQL,91000.0,0.0,91000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+767,31-12-2020,34,Male,Berlin,Software Engineer,14.0,4.0,Lead,Java ,SQL,95000.0,5000.0,92000.0,92000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+768,02-12-2020,34,Male,Berlin,Backend Developer,14.0,4.0,Senior,Kotlin ,SQL,95000.0,125000.0,90000.0,90000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,300
+769,24-11-2020,34,Male,Berlin,Mobile Developer,11.0,5.0,Lead,Kotlin ,SQL,80000.0,80000.0,75000.0,75000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+770,24-11-2020,34,Male,Berlin,Software Engineer,12.0,2.0,Lead,.NET,SQL,78000.0,8000.0,64000.0,70000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+771,24-11-2020,34,Male,Berlin,Backend Developer,15.0,5.0,Senior,Elixir,SQL,70000.0,70000.0,65000.0,65000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+772,27-11-2020,34,Male,Berlin,BI Consultant,10.0,5.0,Senior,SQL,SQL,75000.0,7500.0,65000.0,65000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+773,24-11-2020,34,Male,Berlin,Software Engineer,15.0,2.0,Lead,Java ,SQL,80000.0,12000.0,76000.0,11000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,750
+774,24-11-2020,34,Male,Berlin,Software Engineer,10.0,10.0,Senior,C++,SQL,76000.0,12000.0,73000.0,8000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+775,19-12-2020,34,Male,Berlin,Backend Developer,12.0,4.0,Senior,Kotlin ,SQL,75000.0,7500.0,72000.0,7200.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1100
+776,24-11-2020,34,Female,Berlin,Software Engineer,9.0,3.0,Senior,Kotlin ,SQL,78000.0,3000.0,65000.0,7000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+777,24-11-2020,34,Male,Berlin,Software Architect,15.0,9.0,Lead,Node.js,SQL,100000.0,0.0,92000.0,7000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+778,24-11-2020,34,Male,Berlin,Data Scientist,5.0,5.0,Middle,Python,SQL,65000.0,5000.0,60000.0,2000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+779,26-11-2020,34,Male,Berlin,Data Scientist,6.0,4.5,Senior,Python,SQL,80000.0,10000.0,76000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1000
+780,27-11-2020,34,Male,Berlin,Mobile Developer,9.0,2.0,Senior,iOS,Objective-C,80000.0,10000.0,67000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,600
+781,24-11-2020,34,Male,Berlin,Mobile Developer,9.0,2.0,Senior,Android,SQL,72000.0,12.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,600
+782,24-11-2020,34,Female,Berlin,QA Engineer,6.0,2.0,Senior,Ruby on Rails,SQL,67500.0,0.0,61400.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+783,26-11-2020,34,Female,Berlin,QA Engineer,1.0,11.0,Senior,Python,SQL,60000.0,2000.0,36000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,40.0,250
+784,24-11-2020,34,Male,Berlin,Security Engineer,10.0,4.0,Senior,Python,SQL,85000.0,25000.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+785,27-11-2020,34,Male,Berlin,DevOps,12.0,2.0,Lead,Kubernetes,SQL,94000.0,0.0,92000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+786,27-11-2020,34,Male,Berlin,Lead Software Developer,13.0,2.0,Lead,C#,.NET,65000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+788,11-12-2020,34,Female,Berlin,Designer (UI/UX),10.0,6.0,Senior,React.js,SQL,45000.0,0.0,45000.0,0.0,y,Full-time employee,Unlimited contract,German,10,Product,No,35.0,0
+790,24-11-2020,34,Male,Berlin,DevOps,13.0,5.0,Senior,Missing_Values,SQL,103000.0,0.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+791,24-11-2020,34,Male,Berlin,ML Engineer,12.0,3.0,Senior,Python,SQL,90000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+792,30-11-2020,34,Male,Berlin,ML Engineer,3.0,3.0,Senior,Python,SQL,70000.0,0.0,55000.0,0.0,y,Full-time employee,Temporary contract,English,1000,Product,No,0.0,0
+794,25-11-2020,34,Male,Berlin,QA Engineer,10.0,3.0,Senior,JavaScript,SQL,70000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,40.0,0
+796,25-11-2020,34,Male,Berlin,Software Engineer,10.0,2.0,Senior,.NET,SQL,60000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+797,24-11-2020,34,Male,Berlin,Software Engineer,14.0,5.0,Senior,C#,SQL,72000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,30.0,0
+798,25-11-2020,34,Female,Berlin,Backend Developer,13.0,3.0,Principal,Python,SQL,108000.0,0.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,30.0,500
+799,01-12-2020,34,Male,Berlin,Backend Developer,10.0,4.0,Middle,Java ,SQL,65600.0,800.0,67000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+802,24-11-2020,34,Male,Berlin,Software Engineer,14.0,4.0,Lead,Java ,SQL,95000.0,5000.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+803,24-11-2020,34,Male,Berlin,DevOps,6.0,6.0,Middle,Java ,SQL,62000.0,70000.0,54000.0,60000.0,y,Full-time employee,Unlimited contract,German,10000,Media,No,0.0,0
+804,08-12-2020,34,Male,Cologne,CTO,14.0,2.0,Lead,C#,SQL,84000.0,92000.0,72000.0,72000.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+805,29-11-2020,34,Male,Cologne,Software Architect,14.0,0.0,Lead,Haskell,SQL,100000.0,0.0,80000.0,0.0,y,Full-time employee,Temporary contract,English,100,Product,No,0.0,0
+808,26-11-2020,34,Male,Hannover,Hardware Engineer,12.0,3.0,Senior,Missing_Values,SQL,56000.0,0.0,56000.0,0.0,y,Full-time employee,Unlimited contract,English,10,Product,No,10.0,1000
+809,01-12-2020,34,Female,Hildesheim ,QA Engineer,11.0,2.0,Senior,QA,SQL,60000.0,2000.0,60000.0,1000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,5.0,0
+810,05-01-2021,34,Male,Ingolstadt ,Software Engineer,3.5,3.5,Junior,C++,SQL,55000.0,55000.0,53000.0,53000.0,y,Full-time employee,Unlimited contract,German,10000,Consulting and Product,No,20.0,0
+811,24-11-2020,34,Male,Leipzig,Mobile Developer,14.0,2.0,Senior,Android,SQL,60000.0,60000.0,52000.0,52000.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,0
+812,24-11-2020,34,Male,Munich,Solutions architect,14.0,6.0,Head,Blockchain,SQL,95000.0,10000.0,85000.0,10000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,400
+813,29-11-2020,34,Male,Munich,Backend Developer,13.0,2.0,Lead,Java ,SQL,105000.0,15000.0,70000.0,7000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+815,24-11-2020,34,Male,Munich,Product Manager,7.0,1.0,Middle,Missing_Values,SQL,72000.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,30.0,0
+816,24-11-2020,34,Male,Munich,Software Engineer,13.0,3.0,Lead,.NET,.NET,72000.0,72000.0,60000.0,60000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,32.0,0
+817,30-11-2020,34,Male,Munich,Frontend Developer,5.0,4.0,Senior,JavaScript,SQL,54000.0,54000.0,54000.0,54000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,20.0,0
+818,24-11-2020,34,Male,Munich,Software Engineer,12.0,5.0,Lead,Python,SQL,95000.0,0.0,85000.0,10000.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,1500
+819,08-12-2020,34,Male,Munich,DevOps,12.0,2.0,Middle,Java ,SQL,72000.0,8000.0,72000.0,8000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+820,25-11-2020,34,Male,Munich,QA Engineer,5.0,2.0,Senior,Java ,SQL,76500.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+821,25-11-2020,34,Male,Munich,Software Engineer,12.0,8.0,Senior,Java ,SQL,74000.0,0.0,69000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,32.0,0
+822,24-11-2020,34,Male,Munich,Frontend Developer,5.0,5.0,Senior,JavaScript,SQL,73500.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+823,07-12-2020,34,Male,Munich,Software Engineer,10.0,4.0,Senior,C++,SQL,74000.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+824,28-11-2020,34,Male,Munich,Frontend Developer,4.0,3.0,Middle,JavaScript,SQL,66000.0,0.0,66000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,30.0,0
+825,03-12-2020,34,Male,Munich,Data Scientist,10.0,10.0,Senior,Python,SQL,85000.0,20000.0,62500.0,11000.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,300
+828,01-01-2021,34,Male,Prague,Backend Developer,14.0,0.0,Lead,C#,SQL,90000.0,40000.0,70000.0,40000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+829,30-11-2020,34,Male,Stuttgart ,Software Engineer,6.0,6.0,Head,C++,SQL,90000.0,1000.0,70000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+831,24-11-2020,34,Male,Vienna,Data Scientist,12.0,3.0,Senior,Missing_Values,SQL,77500.0,7750.0,67000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,0
+832,18-01-2021,34,Male,Zurich,Software Engineer,7.0,2.0,Senior,PHP,SQL,108500.0,0.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+833,30-11-2020,35,Male,Berlin,Data Scientist,12.0,3.5,Senior,Python,SQL,77000.0,12000.0,65000.0,10000.0,y,Full-time employee,Unlimited contract,English,10000,Startup,Yes,30.0,0
+835,25-11-2020,35,Male,Berlin,QA Engineer,12.0,3.0,Senior,JavaScript,SQL,63000.0,0.0,56000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,Yes,30.0,0
+838,25-11-2020,35,Male,Berlin,Data Analyst,9.0,9.0,Senior,Python,SQL,77000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Startup,No,0.0,0
+839,25-11-2020,35,Male,Berlin,Backend Developer,13.0,5.0,Senior,Node.js,SQL,90000.0,0.0,82000.0,0.0,y,Full-time employee,Unlimited contract,English,10,Startup,No,0.0,0
+840,25-11-2020,35,Male,Berlin,Frontend Developer,10.0,3.0,Senior,JavaScript,SQL,75000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Startup,No,0.0,0
+841,18-12-2020,35,Female,Berlin,Product Manager,5.0,2.0,Senior,Missing_Values,SQL,60000.0,0.0,50000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,8.0,0
+844,02-12-2020,35,Male,Berlin,Team Lead,20.0,5.0,Lead,Missing_Values,SQL,85000.0,0.0,85000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+845,27-11-2020,35,Female,Berlin,Frontend Developer,2.0,2.0,Junior,React.js,SQL,40000.0,0.0,38000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,200
+846,02-12-2020,35,Male,Berlin,Software Engineer,12.0,6.0,Middle,Kotlin ,SQL,75000.0,95000.0,74000.0,94000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+847,25-11-2020,35,Male,Berlin,Software Engineer,10.0,6.0,Senior,PHP,SQL,78000.0,78000.0,78000.0,78000.0,y,Full-time employee,Unlimited contract,German,10,Product,No,0.0,0
+848,24-11-2020,35,Male,Berlin,Support Engineer,10.0,4.0,Senior,PHP,SQL,63500.0,63500.0,60000.0,60000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+849,25-11-2020,35,Male,Berlin,Software Engineer,8.0,5.0,Senior,Go,SQL,90000.0,100000.0,85000.0,50000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+850,26-11-2020,35,Male,Berlin,Consultant,16.0,6.0,Senior,Python,SQL,100000.0,30000.0,100000.0,30000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+851,25-11-2020,35,Male,Berlin,Software Engineer,15.0,4.0,Principal,C++,SQL,77000.0,20000.0,77000.0,20000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+852,24-11-2020,35,Male,Berlin,Backend Developer,10.0,7.0,Senior,Ruby on Rails,SQL,75000.0,0.0,72000.0,15000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,500
+853,30-11-2020,35,Male,Berlin,Software Engineer,2.0,2.0,Middle,Python,SQL,50000.0,500.0,42000.0,500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+854,06-12-2020,35,Male,Berlin,Backend Developer,13.0,5.0,Senior,PHP,SQL,68000.0,0.0,68000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,20.0,0
+855,27-11-2020,35,Male,Berlin,Software Engineer,15.0,4.0,Senior,Java ,SQL,85000.0,0.0,85000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+856,01-12-2020,35,Male,Berlin,Software Engineer,20.0,5.0,Senior,JavaScript,SQL,100000.0,0.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+857,25-11-2020,35,Male,Berlin,SRE,10.0,3.0,Senior,Terraform,SQL,75000.0,10000.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,300
+858,27-11-2020,35,Male,Berlin,Data Analyst,5.0,5.0,Middle,R,SQL,49000.0,0.0,48000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,400
+859,28-11-2020,35,Male,Berlin,Data Scientist,15.0,10.0,Middle,C++,SQL,60000.0,0.0,60000.0,0.0,y,Full-time employee,Temporary contract,English,1000,Product,No,0.0,0
+860,26-11-2020,35,Male,Berlin,Engineering Manager,20.0,6.0,Lead,Go,SQL,85000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,500
+863,24-11-2020,35,Male,Berlin,Designer (UI/UX),10.0,4.0,Senior,Missing_Values,SQL,70000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+865,27-11-2020,35,Female,Berlin,Product Manager,13.0,6.0,Senior,Missing_Values,SQL,85000.0,0.0,64000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+867,08-12-2020,35,Male,Berlin,Software Engineer,15.0,4.0,Senior,Java ,SQL,85000.0,10000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+873,24-11-2020,35,Female,Berlin,Reporting Engineer,3.0,2.0,Middle,Power BI,SQL,55000.0,3000.0,45000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+874,24-11-2020,35,Male,Berlin,ML Engineer,10.0,2.0,Lead,Scala,SQL,96000.0,4000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+875,24-11-2020,35,Male,Berlin,Software Engineer,15.0,3.0,Lead,Java ,SQL,95000.0,0.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+877,24-11-2020,35,Female,Berlin,Frontend Developer,12.0,5.0,Middle,JavaScript,SQL,70000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,E-commerce,No,0.0,0
+878,25-11-2020,35,Male,Berlin,Software Engineer,15.0,10.0,Senior,.NET,SQL,80000.0,80000.0,67000.0,67000.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,24.0,0
+879,30-11-2020,35,Male,Berlin,Designer (UI/UX),10.0,6.0,Senior,Missing_Values,SQL,50400.0,0.0,50400.0,0.0,y,Full-time employee,Unlimited contract,German,50,Consulting and Product,No,40.0,0
+880,24-11-2020,35,Male,Cologne,Software Engineer,14.0,7.0,Senior,C++,SQL,72000.0,77000.0,70000.0,70000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+881,24-11-2020,35,Male,Darmstadt,Product Manager,5.0,2.0,Senior,Missing_Values,SQL,56000.0,56000.0,54000.0,54000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+882,08-12-2020,35,Male,Darmstadt,Data Scientist,4.0,4.0,Senior,Python,SQL,67000.0,5000.0,60000.0,10000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+883,26-11-2020,35,Male,Darmstadt,Data Scientist,3.0,3.0,Middle,Python,SQL,68000.0,8000.0,60000.0,8000.0,y,Full-time employee,Unlimited contract,English,100,E-commerce,No,0.0,0
+884,08-12-2020,35,Male,Duesseldorf,DevOps,17.0,5.0,Senior,Linux,SQL,85000.0,2000.0,68000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,0.0,0
+885,05-12-2020,35,Male,France,Backend Developer,4.0,2.5,Middle,Java ,SQL,42000.0,0.0,42000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Consulting and Product,No,0.0,750
+887,30-11-2020,35,Male,Frankfurt,Manager ,6.0,5.0,Head,C,SQL,90000.0,7500.0,88000.0,7500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+888,25-11-2020,35,Male,Frankfurt,Backend Developer,15.0,15.0,Senior,C,SQL,63000.0,7000.0,63000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Product,No,0.0,0
+890,08-12-2020,35,Male,Frankfurt,Software Engineer,10.0,1.0,Senior,Java ,SQL,60000.0,5000.0,60000.0,5000.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,0
+891,26-11-2020,35,Female,Frankfurt,Software Engineer,1.0,1.0,Junior,ABAP,SQL,50000.0,0.0,50000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Consulting and Product,No,0.0,0
+892,24-11-2020,35,Male,Frankfurt,Software Engineer,12.0,3.0,Senior,Java ,SQL,66000.0,0.0,66000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Consulting and Product,No,0.0,1
+894,24-11-2020,35,Male,Hamburg,Software Engineer,13.0,3.0,Lead,Scala,SQL,95000.0,15000.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+895,24-11-2020,35,Male,Helsinki,Backend Developer,11.0,2.5,Senior,Python,SQL,66000.0,2000.0,53000.0,56000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,37.5,500
+896,26-12-2020,35,Male,Ingolstadt,Backend Developer,10.0,4.0,Lead,Magento,SQL,65000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+897,08-01-2021,35,Male,Karlsruhe,Software Engineer,12.0,7.0,Senior,.NET,SQL,75000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+898,25-11-2020,35,Male,Konstanz,Data Scientist,10.0,10.0,Middle,Python,SQL,65000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+899,30-11-2020,35,Male,Luttich,Data Scientist,12.0,0.0,Lead,Python,SQL,85000.0,95000.0,80000.0,90000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,240
+900,25-11-2020,35,Male,Munich,Backend Developer,14.0,2.5,Senior,Java ,SQL,77000.0,0.0,69300.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+901,05-12-2020,35,Male,Munich,Software Engineer,14.0,1.0,Senior,C++,SQL,98000.0,28000.0,90000.0,22500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,400
+902,04-01-2021,35,Male,Munich,Software Engineer,12.0,5.0,Lead,Python,SQL,100000.0,10000.0,85000.0,10000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,1670
+903,24-11-2020,35,Male,Munich,Software Engineer,13.0,4.0,Senior,Java ,SQL,80000.0,1500.0,77000.0,1500.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,30.0,0
+904,24-11-2020,35,Male,Munich,Software Engineer,11.0,3.0,Senior,PHP,SQL,65000.0,5000.0,65000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,2000
+905,25-11-2020,35,Male,Munich,Software Engineer,16.0,8.0,Lead,PHP,SQL,84000.0,0.0,79000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,36.0,0
+906,25-11-2020,35,Female,Munich,Backend Developer,4.0,4.0,Middle,PHP,SQL,51000.0,4000.0,47000.0,3500.0,y,Full-time employee,Unlimited contract,German,1000,Insurance,No,0.0,0
+907,09-12-2020,35,Male,Munich,Software Engineer,15.0,5.0,Head,SQL,SQL,100000.0,0.0,60000.0,20000.0,y,Founder,Unlimited contract,English,50,Consulting and Product,No,0.0,0
+908,25-11-2020,35,Male,Munich,DevOps,17.0,5.0,Lead,Kubernetes,SQL,72000.0,8000.0,72500.0,8000.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,8.0,0
+913,24-11-2020,35,Male,Stuttgart,Security Manager,14.0,8.0,Senior,Missing_Values,SQL,80000.0,5000.0,53000.0,4000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+914,24-11-2020,35,Female,Stuttgart ,QA Manager ,9.0,4.0,Middle,Jira,SQL,60000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,0
+915,24-12-2020,36,Male,Amsterdam,Mobile Developer,14.0,8.0,Senior,Swift,SQL,75000.0,0.0,75000.0,35000.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,0.0,0
+916,30-11-2020,36,Male,Berlin,Frontend Developer,6.0,4.0,Middle,JavaScript,SQL,58000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,Yes,0.0,0
+917,25-11-2020,36,Male,Berlin,Researcher,4.0,4.0,Middle,C++,SQL,40000.0,0.0,37000.0,0.0,y,Full-time employee,Temporary contract,English,10,University,No,0.0,0
+919,27-11-2020,36,Male,Berlin,Backend Developer,5.0,2.0,Senior,Java ,SQL,70000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,600
+920,25-11-2020,36,Female,Berlin,Data Scientist,5.0,5.0,Senior,Python,SQL,75000.0,0.0,75000.0,0.0,y,Part-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+921,29-11-2020,36,Male,Berlin,Software Engineer,5.0,1.0,Middle,JavaScript,SQL,60000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+923,24-11-2020,36,Male,Berlin,Frontend Developer,12.0,4.0,Senior,JavaScript,SQL,72000.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,10,Startup,No,0.0,0
+924,25-11-2020,36,Male,Berlin,Frontend Developer,14.0,5.0,Senior,JavaScript,SQL,78000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+927,24-11-2020,36,Male,Berlin,Backend Developer,18.0,1.0,Senior,PHP,SQL,65000.0,70000.0,60000.0,60000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,34.0,0
+928,01-12-2020,36,Male,Berlin,Software Engineer,10.0,10.0,Principal,Java ,SQL,100000.0,35000.0,85000.0,28500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,800
+929,25-11-2020,36,Male,Berlin,Engineering Manager,18.0,10.0,Head,C++,SQL,98000.0,25000.0,98000.0,25000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,32.0,0
+930,02-12-2020,36,Female,Berlin,Data Scientist,5.0,5.0,Senior,Python,SQL,87000.0,15000.0,77000.0,12000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+931,24-11-2020,36,Female,Berlin,QA Engineer,14.0,7.0,Lead,Java ,SQL,69000.0,6900.0,63000.0,6300.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+932,29-12-2020,36,Male,Berlin,Mobile Developer,10.0,10.0,Middle,Android,SQL,68000.0,2000.0,65000.0,5000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,650
+933,22-12-2020,36,Male,Berlin,Software Engineer,15.0,6.0,Senior,PHP,SQL,70000.0,2000.0,67000.0,2000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,800
+934,24-11-2020,36,Female,Berlin,Recruiter,11.0,4.0,Senior,Missing_Values,SQL,70000.0,11000.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1500
+935,25-11-2020,36,Male,Berlin,Software Engineer,10.0,10.0,Senior,TypeScript,SQL,88000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+936,26-11-2020,36,Male,Berlin,Backend Developer,4.0,1.0,Middle,Java ,SQL,55000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,20.0,0
+937,25-11-2020,36,Male,Berlin,Backend Developer,14.0,12.0,Middle,JavaScript,SQL,75000.0,0.0,73500.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+938,05-12-2020,36,Male,Berlin,Staff Engineer,15.0,4.0,Lead,Go,SQL,85000.0,3000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1100
+939,24-11-2020,36,Male,Berlin,Backend Developer,19.0,5.0,Senior,PHP,SQL,69000.0,0.0,69000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+941,25-11-2020,36,Male,Berlin,Product Manager,10.0,2.0,Senior,Missing_Values,SQL,85000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+942,24-11-2020,36,Male,Berlin,Software Engineer,7.0,5.0,Middle,C++,SQL,42000.0,0.0,42000.0,0.0,y,Full-time employee,Unlimited contract,English,10,Product,No,32.0,0
+944,24-11-2020,36,Male,Berlin,Software Engineer,17.0,2.0,Lead,PHP,SQL,70000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+947,25-11-2020,36,Female,Berlin,DevOps,1.0,3.0,Middle,Java ,SQL,60000.0,5000.0,58000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Consulting and Product,No,0.0,0
+949,29-11-2020,36,Male,Dortmund,Software Engineer,8.0,8.0,Senior,Kotlin ,SQL,83000.0,0.0,81000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+950,24-11-2020,36,Female,Erlangen,Project Manager,14.0,2.0,Middle,Missing_Values,SQL,62000.0,0.0,36000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+951,27-11-2020,36,Male,Frankfurt,Software Engineer,14.0,0.0,Senior,C++,SQL,81500.0,4500.0,78500.0,8100.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,460
+953,26-11-2020,36,Male,Frankfurt,Software Engineer,16.0,5.0,Middle,.NET,.NET,65000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Consulting and Product,No,30.0,0
+954,28-11-2020,36,Male,Frankfurt,QA Engineer,9.0,2.0,Senior,Missing_Values,SQL,64000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,0
+955,24-11-2020,36,Male,Hamburg,Backend Developer,10.0,5.0,Senior,Java ,SQL,82000.0,0.0,78000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Product,No,0.0,500
+956,30-11-2020,36,Male,Hamburg,Data Scientist,2.0,10.0,Middle,Python,SQL,63000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+959,24-11-2020,36,Male,Munich,Solutions Architect,12.0,5.0,Lead,Cloud,SQL,105000.0,25000.0,105000.0,25000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+960,25-11-2020,36,Male,Munich,IT Spezialist,15.0,6.0,Senior,AWS,SQL,79300.0,11900.0,73000.0,6000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+961,25-11-2020,36,Female,Munich,Frontend Developer,10.0,3.0,Middle,JavaScript,SQL,48000.0,0.0,40000.0,0.0,y,Part-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+962,24-11-2020,36,Male,Munich,Backend Developer,15.0,3.0,Senior,Java ,SQL,55000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,600
+964,01-12-2020,36,Male,Munich,Software Engineer,13.0,5.0,Head,Java ,SQL,90000.0,5000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+965,22-12-2020,36,Male,Munich,Software Engineer,15.0,1.0,Senior,PL/SQL,SQL,68000.0,3000.0,68000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,0.0,400
+966,30-11-2020,36,Male,Munich,DevOps,14.0,6.0,Middle,PowerShell,SQL,65000.0,5000.0,58040.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,0
+967,30-11-2020,36,Male,Nuremberg,Software Engineer,20.0,20.0,Lead,Java ,SQL,74000.0,6000.0,74000.0,6000.0,y,Full-time employee,Unlimited contract,German,10000,Finance,No,0.0,0
+969,03-12-2020,36,Male,Prague,ML Engineer,6.0,6.0,Senior,Python,SQL,110000.0,25000.0,65000.0,2500.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,80
+970,24-12-2020,36,Male,Regensburg,Software Engineer,10.0,10.0,Middle,C#,SQL,66000.0,6000.0,58000.0,6000.0,y,Full-time employee,Unlimited contract,German,100,Consulting and Product,No,0.0,0
+972,01-12-2020,36,Male,Stockholm,Mobile Developer,14.0,7.0,Senior,Java ,SQL,80000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+973,18-12-2020,36,Male,Stuttgart,Mobile Developer,16.0,4.0,Lead,Java ,SQL,62500.0,0.0,59500.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,32.0,0
+977,24-11-2020,37,Male,Berlin,Cloud Architect,15.0,3.0,Senior,Cloud,SQL,72000.0,10000.0,62000.0,7000.0,y,Full-time employee,Unlimited contract,English,10000,Product,Yes,0.0,0
+978,24-11-2020,37,Male,Berlin,Frontend Developer,14.0,5.0,Senior,Angular,SQL,84000.0,0.0,82000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Technology,No,0.0,0
+979,25-11-2020,37,Male,Berlin,Backend Developer,12.0,3.0,Senior,Java ,SQL,102000.0,0.0,78000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,400
+980,24-11-2020,37,Male,Berlin,Software Engineer,10.0,3.0,Senior,PHP,SQL,55000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,0
+984,25-11-2020,37,Male,Berlin,QA Engineer,6.0,6.0,Middle,Java ,SQL,69200.0,0.0,67100.0,0.0,y,Full-time employee,Unlimited contract,English,1000,SaaS,No,0.0,0
+985,25-11-2020,37,Female,Berlin,Data Scientist,2.0,2.0,Middle,Python,SQL,62000.0,0.0,58000.0,600.0,y,Full-time employee,Unlimited contract,German,1000,Publishing and Technology,No,0.0,0
+986,24-11-2020,37,Male,Berlin,Software Engineer,8.0,5.0,Senior,Python,SQL,76900.0,77400.0,70000.0,74800.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+987,24-11-2020,37,Male,Berlin,Product Manager,6.0,6.0,Middle,Missing_Values,SQL,62000.0,62000.0,58000.0,60000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+988,05-12-2020,37,Male,Berlin,Software Engineer,12.0,6.0,Middle,PHP,SQL,65000.0,31500.0,65000.0,31500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,200
+989,12-01-2021,37,Male,Berlin,Mobile Developer,15.0,5.0,Senior,Android,SQL,84700.0,1000.0,83000.0,3500.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,1200
+990,30-11-2020,37,Male,Berlin,Data Scientist,10.0,10.0,Senior,Python,SQL,82000.0,0.0,79000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,200
+991,25-11-2020,37,Male,Berlin,Engineering Manager,15.0,1.0,Senior,C,SQL,78000.0,0.0,78000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+992,25-11-2020,37,Male,Berlin,Mobile Developer,16.0,2.0,Senior,iOS,SQL,65000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+993,25-11-2020,37,Male,Berlin,Mobile Developer,17.0,1.0,Senior,Swift,SQL,77000.0,500.0,71000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+994,26-11-2020,37,Male,Berlin,Software Engineer,11.0,5.0,Senior,Python,SQL,73000.0,30000.0,67000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+995,24-11-2020,37,Male,Berlin,Backend Developer,17.0,6.0,Senior,C#,.NET,62000.0,0.0,62000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+997,24-11-2020,37,Male,Berlin,Software Engineer,15.0,3.0,Senior,Scala,SQL,85000.0,5000.0,100000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+998,03-12-2020,37,Male,Berlin,Software Engineer,16.0,8.0,Senior,Java ,SQL,80000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1000,27-11-2020,37,Male,Berlin,QA Engineer,8.0,7.0,Middle,Missing_Values,SQL,54000.0,0.0,54000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+1001,26-11-2020,37,Male,Berlin,Backend Developer,12.0,2.6,Lead,Kotlin ,SQL,90000.0,0.0,84000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,10.0,0
+1003,24-11-2020,37,Male,Berlin,Test manager,6.0,6.0,Middle,Charles,SQL,47400.0,1000.0,44000.0,1000.0,y,Full-time employee,Unlimited contract,German,10000,Media,No,0.0,0
+1004,24-11-2020,37,Male,Berlin,Team Lead,12.0,10.0,Head,Python,SQL,90000.0,0.0,85000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,0.0,0
+1005,24-11-2020,37,Male,Hamburg,Software Engineer,15.0,5.0,Senior,Java ,SQL,70000.0,0.0,60000.0,0.0,y,Full-time employee,Temporary contract,English,50,Startup,No,0.0,0
+1006,09-12-2020,37,Female,Hamburg,QA Manager,7.0,7.0,Middle,Java ,SQL,46000.0,2000.0,45000.0,1800.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+1007,24-11-2020,37,Male,Heidelberg,Software Engineer,15.0,7.0,Senior,ABAP,SQL,67500.0,7500.0,65000.0,5000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1009,26-11-2020,37,Male,Munich,Software Engineer,15.0,6.0,Senior,C#,SQL,80000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Consulting and Product,Yes,0.0,0
+1011,27-11-2020,37,Male,Munich,Software Engineer,14.0,6.0,Head,TypeScript,SQL,84000.0,84000.0,84000.0,80000.0,y,Full-time employee,Unlimited contract,English,10,Product,No,40.0,0
+1012,24-11-2020,37,Male,Munich,Backend Developer,12.0,4.0,Senior,PHP,SQL,62000.0,5000.0,60000.0,5000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,32.0,0
+1013,24-11-2020,37,Male,Munich,Software Engineer,15.0,2.0,Senior,PHP,SQL,75000.0,0.0,72500.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,200
+1014,25-11-2020,37,Male,Munich,DevOps,13.0,2.0,Lead,Missing_Values,SQL,70000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+1015,24-12-2020,37,Male,Munich,DevOps,17.0,1.0,Senior,AWS,SQL,90000.0,0.0,85000.0,85000.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,40.0,0
+1016,24-11-2020,37,Male,Stuttgart ,Software Engineer,9.0,5.0,Senior,Qml,SQL,60000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Consulting and Product,No,0.0,0
+1017,27-11-2020,37,Male,Walldorf,ML Engineer,15.0,15.0,Lead,Python,SQL,80000.0,15000.0,75000.0,15000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1019,24-11-2020,38,Male,Berlin,Mobile Developer,10.0,4.0,Senior,Swift,Objective-C,70000.0,0.0,70000.0,5000.0,y,Full-time employee,Unlimited contract,English,10000,Product,Yes,0.0,0
+1020,24-11-2020,38,Male,Berlin,Team Lead,18.0,4.0,Lead,iOS,Objective-C,80000.0,4000.0,80000.0,2000.0,y,Full-time employee,Unlimited contract,English,1000,Product,Yes,0.0,0
+1024,24-11-2020,38,Male,Berlin,Software Engineer,16.0,2.0,Senior,ABAP,SQL,83000.0,11000.0,80000.0,80000.0,y,Full-time employee,Unlimited contract,English,10000,Startup,No,0.0,700
+1025,24-11-2020,38,Male,Berlin,Security Engineer,5.0,3.0,Lead,Missing_Values,SQL,80000.0,0.0,70000.0,3500.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,32.0,0
+1026,08-12-2020,38,Male,Berlin,Fullstack Developer,1.0,1.0,Junior,JavaScript,SQL,45500.0,45500.0,40000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+1028,24-11-2020,38,Male,Berlin,DevOps,10.0,5.0,Senior,Go,SQL,70000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+1029,25-11-2020,38,Male,Berlin,Data Scientist,15.0,2.0,Head,Python,SQL,100000.0,120000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,25.0,0
+1030,25-11-2020,38,Male,Berlin,Data Scientist,15.0,2.0,Head,Python,SQL,100000.0,120000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,25.0,0
+1031,21-12-2020,38,Male,Berlin,Data Scientist,6.0,3.0,Lead,Python,SQL,110000.0,70000.0,110000.0,180000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1032,24-11-2020,38,Male,Berlin,Localization producer,17.0,3.0,Middle,Missing_Values,SQL,68500.0,30000.0,62400.0,122000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,8000
+1033,29-11-2020,38,Male,Berlin,Backend Developer,8.0,8.0,Senior,Perl,SQL,64000.0,73000.0,64000.0,64000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,200
+1034,26-11-2020,38,Male,Berlin,Backend Developer,5.0,1.0,Middle,Java ,SQL,66000.0,0.0,60000.0,60000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1035,25-11-2020,38,Male,Berlin,Data Scientist,15.0,3.0,Senior,Python,SQL,56000.0,59000.0,56000.0,59000.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+1036,29-11-2020,38,Male,Berlin,Software Engineer,12.0,6.0,Senior,Java ,SQL,92000.0,40000.0,85000.0,30000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1037,18-01-2021,38,Male,Berlin,Head of Engineering,18.0,8.0,Head,Missing_Values,SQL,90000.0,20000.0,90000.0,20000.0,y,Full-time employee,Unlimited contract,German,100,Product,No,0.0,0
+1038,24-11-2020,38,Male,Berlin,Software Engineer,13.0,6.0,Lead,Java ,SQL,89570.0,20240.0,82240.0,18000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+1039,03-12-2020,38,Male,Berlin,Data Scientist,10.0,9.0,Senior,Python,SQL,87550.0,0.0,85000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,600
+1040,26-11-2020,38,Male,Berlin,Software Engineer,15.0,3.0,Senior,Go,SQL,75000.0,0.0,73000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1041,24-11-2020,38,Female,Berlin,Backend Developer,12.0,6.0,Senior,Missing_Values,SQL,70000.0,8000.0,63000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1042,24-11-2020,38,Male,Berlin,Software Engineer,16.0,1.0,Senior,Python,SQL,65000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1044,26-11-2020,38,Male,Berlin,Head of IT ,15.0,5.0,Head,Missing_Values,SQL,80000.0,5000.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,300
+1045,03-12-2020,38,Male,Berlin,Backend Developer,15.0,1.0,Middle,PHP,SQL,40700.0,0.0,20000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,0.0,0
+1047,24-11-2020,38,Male,Cologne,Software Engineer,11.0,5.0,Senior,PHP,SQL,55000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1048,30-11-2020,38,Female,Darmstadt,Data Scientist,14.0,0.0,Middle,R,SQL,70000.0,75000.0,70000.0,75000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+1050,25-11-2020,38,Male,Dublin ,Mobile Developer,16.0,0.0,Senior,Swift,Objective-C,85000.0,0.0,85000.0,85000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1051,24-11-2020,38,Male,Frankfurt,Data Center Manager,6.0,2.0,WorkCenterManager,DC Management,SQL,68000.0,12000.0,65000.0,77000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1053,24-11-2020,38,Male,Hamburg,Software Engineer,12.0,6.0,Senior,Java ,SQL,73000.0,7000.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+1054,24-11-2020,38,Male,Karlsruhe,QA Engineer,7.0,2.0,Middle,Missing_Values,SQL,54500.0,0.0,54500.0,0.0,y,Full-time employee,Unlimited contract,German,50,Consulting and Product,No,0.0,1500
+1055,24-11-2020,38,Male,Koblenz,System Administrator,20.0,2.0,Senior,Missing_Values,SQL,44000.0,0.0,42000.0,0.0,y,Full-time employee,Unlimited contract,German,50,Startup,No,20.0,0
+1056,24-11-2020,38,Male,Munich,Backend Developer,12.0,12.0,Senior,Java ,SQL,70000.0,1500.0,68000.0,1500.0,y,Full-time employee,Unlimited contract,German,1000,Telecommunication,No,0.0,675
+1057,13-01-2021,38,Male,Munich,Data Analyst,16.0,4.0,Senior,Missing_Values,SQL,95000.0,105000.0,95000.0,105000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,1000
+1058,25-11-2020,38,Male,Munich,Software Engineer,15.0,2.0,Senior,Java ,SQL,70000.0,75000.0,70000.0,75000.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+1059,30-11-2020,38,Male,Munich,Product Manager,12.0,12.0,Senior,Node.js,SQL,74000.0,14000.0,71000.0,11000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1060,01-12-2020,38,Male,Munich,Software Engineer,16.0,5.0,Senior,.NET,.NET,90000.0,0.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1061,24-11-2020,38,Female,Munich,QA Engineer,6.0,2.0,Middle,Java ,SQL,62000.0,0.0,62000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1062,25-11-2020,38,Male,Munich,Software Engineer,15.0,5.0,Senior,JavaScript,SQL,80000.0,6000.0,78000.0,5000.0,y,Full-time employee,Unlimited contract,English,100,Corporation,No,0.0,0
+1063,24-11-2020,38,Male,Munich,ML Engineer,10.0,3.0,Lead,Python,SQL,92000.0,101.0,85000.0,7000.0,y,Full-time employee,Unlimited contract,English,100,Consulting and Product,No,20.0,0
+1064,27-11-2020,38,Female,Regensburg,ML Engineer,3.0,3.0,Middle,Python,SQL,65000.0,0.0,60000.0,0.0,y,Full-time employee,Temporary contract,German,10000,Product,Yes,0.0,0
+1065,24-11-2020,38,Male,Stuttgart,Software Engineer,15.0,8.0,Senior,C#,.NET,56400.0,0.0,56400.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+1067,25-11-2020,38,Male,Stuttgart ,Backend Developer,4.0,2.0,Middle,PHP,SQL,43000.0,0.0,43000.0,0.0,y,Full-time employee,Unlimited contract,English,10,Consulting and Product,No,30.0,0
+1068,11-01-2021,39,Male,Berlin,QA Engineer,7.0,5.0,Senior,Java ,SQL,76000.0,3000.0,65000.0,10000.0,y,Full-time employee,Unlimited contract,English,10000,Product,Yes,0.0,0
+1069,04-12-2020,39,Female,Berlin,Data Scientist,2.5,2.0,Junior,Python,SQL,60000.0,60000.0,60000.0,60000.0,y,Full-time employee,Unlimited contract,English,10,corporate incubator,Yes,0.0,0
+1070,26-11-2020,39,Male,Berlin,Software Engineer,19.0,7.0,Senior,Golang ,SQL,87000.0,97000.0,82000.0,92000.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,40.0,500
+1071,25-11-2020,39,Male,Berlin,Data Scientist,7.0,4.0,Senior,Python,SQL,70000.0,70000.0,65000.0,65000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,32.0,200
+1072,12-12-2020,39,Male,Berlin,Software Engineer,15.0,4.0,Lead,Java ,SQL,75000.0,75000.0,65000.0,65000.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+1073,24-11-2020,39,Male,Berlin,Software Engineer,8.0,5.0,Senior,Java ,SQL,80000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,30.0,0
+1076,26-11-2020,39,Male,Berlin,Engineering Manager,15.0,10.0,Lead,Java ,SQL,78000.0,12000.0,78000.0,12000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+1077,24-11-2020,39,Male,Berlin,DevOps,15.0,3.0,Senior,Python,SQL,70000.0,0.0,70000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1078,30-11-2020,39,Male,Berlin,Software Engineer,12.0,6.0,Lead,JavaScript,SQL,82000.0,2000.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1081,24-11-2020,39,Female,Berlin,Software Engineer,10.0,10.0,Senior,Java ,SQL,70500.0,1000.0,68000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,500
+1082,24-11-2020,39,Male,Berlin,Software Engineer,10.0,2.0,Senior,C#,SQL,75000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Consulting and Product,No,0.0,0
+1083,26-11-2020,39,Male,Cologne,Tech Lead,12.0,12.0,Head,PHP,SQL,75000.0,75000.0,75000.0,75009.0,y,Full-time employee,Unlimited contract,German,10,Startup,No,20.0,0
+1084,28-11-2020,39,Male,Darmstadt,Technical project manager,12.0,4.0,Senior,PHP,SQL,65000.0,6000.0,58000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Consulting and Product,No,0.0,0
+1085,25-11-2020,39,Male,Hamburg,Data Scientist,10.0,10.0,Senior,R,SQL,80000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Energy ,No,0.0,0
+1088,24-11-2020,39,Male,Munich,BI Consultant,5.0,5.0,Middle,Qlik,SQL,56000.0,17000.0,53000.0,17000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,36.0,0
+1090,26-11-2020,39,Female,Munich,DevOps,11.0,11.0,Lead,Missing_Values,SQL,93000.0,0.0,93000.0,0.0,y,Part-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+1091,18-01-2021,39,Male,Munich,IT Operations Manager,15.0,2.0,Lead,PHP,SQL,110000.0,0.0,90000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,E-commerce,No,0.0,0
+1092,24-11-2020,39,Male,Munich,Software Engineer,12.0,6.0,Lead,PHP,SQL,108000.0,0.0,108000.0,0.0,n,Self-employed,Unlimited contract,English,10,Consulting and Product,No,0.0,0
+1093,01-12-2020,39,Male,Siegen,Software Engineer,16.0,6.0,Senior,C++,SQL,62400.0,5000.0,60000.0,5000.0,y,Full-time employee,Unlimited contract,Russian,10000,Product,No,0.0,0
+1094,24-11-2020,39,Male,Stuttgart,Software Engineer,11.0,3.0,Lead,PHP,SQL,75000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1095,28-11-2020,39,Female,Stuttgart ,Project manager ,13.0,13.0,Senior,Missing_Values,SQL,108000.0,0.0,102000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Automotive ,No,32.0,0
+1096,02-12-2020,40,Female,Berlin,QA Engineer,16.0,4.0,Middle,Missing_Values,SQL,65000.0,0.0,57000.0,0.0,n,Full-time employee,Unlimited contract,English,50,Startup,Yes,0.0,0
+1097,25-11-2020,40,Female,Berlin,Software Engineer,1.0,1.0,Junior,JavaScript,SQL,50000.0,0.0,40000.0,5000.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,1200
+1098,26-11-2020,40,Male,Berlin,Backend Developer,13.0,13.0,Senior,Python,SQL,72000.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+1100,25-11-2020,40,Male,Berlin,QA Engineer,11.0,11.0,Senior,Python,SQL,60000.0,1000.0,60000.0,1000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+1101,24-11-2020,40,Female,Berlin,Fullstack Developer,8.0,8.0,Senior,C#,SQL,57000.0,1500.0,54000.0,100.0,y,Full-time employee,Unlimited contract,German,100,Product,No,0.0,0
+1102,24-11-2020,40,Male,Berlin,Backend Developer,18.0,2.5,Senior,PHP,SQL,60000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,34.0,0
+1103,24-11-2020,40,Male,Berlin,Data Engineer,7.5,1.5,Middle,SQL,SQL,68000.0,500.0,48000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1105,25-11-2020,40,Male,Berlin,Engineering Manager,15.0,6.0,Head,Python,SQL,80000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1109,24-11-2020,40,Male,Berlin,Frontend Developer,7.0,1.0,Middle,JavaScript,SQL,54000.0,0.0,54000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,10.0,0
+1110,25-11-2020,40,Male,Berlin,Product Manager,13.0,9.0,Head,Missing_Values,SQL,90000.0,10000.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,300
+1111,25-11-2020,40,Male,Berlin,Product Manager,13.0,9.0,Head,Missing_Values,SQL,90000.0,10000.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,300
+1112,27-11-2020,40,Male,Berlin,Product Manager,13.0,9.0,Head,Missing_Values,SQL,90000.0,10000.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,300
+1113,25-11-2020,40,Male,Bodensee,Product Manager,17.0,9.0,Lead,Linux Kernel,SQL,81000.0,7000.0,81000.0,5500.0,y,Full-time employee,Unlimited contract,German,50,Product,No,0.0,1500
+1114,24-11-2020,40,Male,Braunschweig ,SAP BW Senior Consultant ,11.0,11.0,Senior,SAP,SQL,75000.0,5000.0,72000.0,4800.0,y,Full-time employee,Unlimited contract,German,10000,Finance,No,0.0,0
+1116,24-11-2020,40,Male,Frankfurt,Software Engineer,22.0,3.0,Senior,Java ,SQL,72000.0,5000.0,45000.0,45000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+1117,30-11-2020,40,Male,Hildesheim,Software Engineer,16.0,3.0,Senior,C++,SQL,72000.0,5000.0,70000.0,5000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1118,25-11-2020,40,Male,Karlsruhe,Team Manager,20.0,6.0,Lead,C#,SQL,85000.0,15000.0,80000.0,10000.0,y,Full-time employee,Unlimited contract,English,10000,Enterprise,No,0.0,300
+1119,24-11-2020,40,Male,Karlsruhe ,Backend Developer,8.0,8.0,Lead,Python,SQL,65000.0,5400.0,70400.0,5400.0,y,Part-time employee,Unlimited contract,English,10,Product,No,39.0,10000
+1120,30-11-2020,40,Male,Mannheim,Software Engineer,9.0,9.0,Middle,C,SQL,88000.0,5000.0,87000.0,3000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1121,07-12-2020,40,Male,Munich,Data Engineer,15.0,7.0,Lead,SQL,SQL,90000.0,10000.0,84000.0,10000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,32.0,0
+1122,24-11-2020,40,Male,Munich,QA Engineer,18.0,14.0,Lead,Java ,SQL,78000.0,8000.0,76000.0,7000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+1123,24-11-2020,40,Male,Munich,Mobile Developer,25.0,2.0,Lead,Swift,Objective-C,85000.0,5000.0,72000.0,3000.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+1126,24-11-2020,40,Female,Munich,Software Engineer,20.0,7.0,Middle,Java ,SQL,54000.0,0.0,54000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Biergarten ,No,0.0,0
+1128,24-11-2020,41,Male,Berlin,Product Manager,18.0,2.0,Senior,Missing_Values,SQL,78000.0,0.0,100000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,Yes,0.0,0
+1130,25-11-2020,41,Male,Berlin,Software Engineer,18.0,7.0,Lead,PHP,SQL,100000.0,100000.0,80000.0,80000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+1131,25-11-2020,41,Male,Berlin,Backend Developer,20.0,5.0,Senior,Python,SQL,93000.0,1000.0,88000.0,10000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,40.0,1000
+1132,24-11-2020,41,Male,Berlin,Software Engineer,19.0,7.0,Lead,Python,SQL,95500.0,14500.0,94000.0,7500.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1133,25-11-2020,41,Male,Berlin,DevOps,20.0,14.0,Senior,Linux,SQL,58800.0,20700.0,56400.0,17000.0,y,Full-time employee,Unlimited contract,German,10000,Enterprise,No,0.0,0
+1134,24-11-2020,41,Female,Munich,Data Engineer,12.0,12.0,Senior,Missing_Values,SQL,68000.0,4500.0,61500.0,5000.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,Yes,0.0,0
+1135,10-12-2020,41,Male,Munich,Software Engineer,15.0,15.0,Senior,Kotlin ,SQL,99000.0,1200.0,99000.0,3300.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+1136,24-11-2020,41,Male,Munich,Backend Developer,21.0,3.0,Senior,Java ,SQL,80000.0,0.0,78000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1137,25-11-2020,41,Male,Munich,Software Engineer,19.0,5.0,Senior,Java ,SQL,75000.0,0.0,73000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1139,24-11-2020,41,Male,Munich,Product Manager,18.0,3.0,Middle,Missing_Values,SQL,72000.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1140,30-11-2020,41,Male,Rome,CTO,22.0,0.0,Head,Python,SQL,50000.0,0.0,45000.0,0.0,y,Full-time employee,Unlimited contract,Italian,100,Product,No,0.0,0
+1142,26-11-2020,42,Male,Berlin,Software Engineer,20.0,2.0,Senior,PHP,SQL,65000.0,5000.0,63000.0,10000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+1143,25-11-2020,42,Male,Berlin,Software Engineer,17.0,9.0,Senior,Go,SQL,75000.0,8000.0,73000.0,3000.0,y,Full-time employee,Unlimited contract,English,1000,Startup,No,0.0,0
+1144,26-11-2020,42,Female,Berlin,QA Engineer,10.0,3.0,Middle,JavaScript,SQL,42000.0,0.0,32000.0,0.0,n,Full-time employee,Unlimited contract,English,50,Startup,No,0.0,1000
+1146,02-12-2020,42,Male,Berlin,Backend Developer,19.0,3.0,Senior,PHP,SQL,66000.0,4000.0,65000.0,5000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1147,24-11-2020,42,Male,Berlin,ML Engineer,20.0,20.0,Senior,Python,SQL,80000.0,0.0,66000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+1148,24-11-2020,42,Male,Berlin,Software Engineer,20.0,5.0,Senior,Ruby on Rails,SQL,80000.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Product,No,0.0,0
+1151,26-11-2020,42,Female,Berlin,QA Engineer,5.0,5.0,Middle,Java ,SQL,46000.0,0.0,46000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,30.0,0
+1156,24-11-2020,42,Male,Den Haag,Backend Developer,20.0,6.0,Senior,.NET,SQL,75000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,40.0,300
+1158,09-12-2020,42,Male,Hamburg,Data Scientist,2.0,2.0,Senior,Python,SQL,80000.0,7000.0,65000.0,5000.0,y,Full-time employee,Unlimited contract,German,10000,Old industry,No,0.0,0
+1159,24-11-2020,42,Female,Munich,Software tester ,12.0,12.0,Nolevel ,Java ,SQL,47500.0,47500.0,39000.0,39000.0,y,Part-time employee,Unlimited contract,German,100,Product,No,10.0,0
+1161,25-11-2020,43,Male,Berlin,DevOps,21.0,26.0,Lead,Missing_Values,SQL,83000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Startup,No,0.0,0
+1162,30-11-2020,43,Male,Berlin,Software Engineer,20.0,3.0,Middle,Ruby on Rails,SQL,70000.0,20000.0,70000.0,10000.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,800
+1163,24-11-2020,43,Male,Berlin,Backend Developer,5.0,1.5,Middle,Java ,SQL,64000.0,6000.0,63000.0,6000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1164,26-11-2020,43,Male,Berlin,Engineering Manager,20.0,20.0,Lead,Java ,SQL,105000.0,0.0,105000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1165,24-11-2020,43,Male,Berlin,Mobile Developer,5.0,3.0,Senior,Kotlin ,SQL,72000.0,0.0,68000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1166,24-11-2020,43,Male,Berlin,Software Engineer,20.0,4.0,Senior,Python,SQL,79000.0,0.0,80000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,500
+1167,25-11-2020,43,Male,Cologne,Backend Developer,10.0,7.0,Senior,PHP,SQL,57600.0,8000.0,57600.0,55000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+1170,25-11-2020,43,Male,Munich,Consultant,21.0,3.0,Senior,Java ,SQL,72000.0,0.0,63000.0,1000.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,0
+1171,25-11-2020,43,Male,Stuttgart,SAP Consultant,20.0,15.0,Senior,SAP,SQL,82000.0,12000.0,82000.0,10000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+1172,24-11-2020,44,Male,Berlin,Backend Developer,12.0,3.0,Senior,Java ,SQL,68000.0,0.0,68000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,0.0,0
+1173,11-12-2020,44,Male,Berlin,QA Lead,15.0,5.0,Lead,JavaScript,SQL,72000.0,0.0,72000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,30.0,0
+1175,27-11-2020,44,Male,Frankfurt,Software Engineer,10.0,10.0,Senior,SAP,SQL,75000.0,80000.0,73000.0,78000.0,y,Full-time employee,Unlimited contract,Russian,1000,Product,No,0.0,0
+1177,05-01-2021,44,Male,Munich,Software Architect,20.0,20.0,Head,Java ,SQL,95000.0,15000.0,95000.0,15000.0,y,Full-time employee,Unlimited contract,German,1000,Product,Yes,0.0,0
+1178,24-11-2020,44,Male,Munich,Software Engineer,28.0,6.0,Senior,C#,SQL,78500.0,0.0,78500.0,2000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+1179,24-11-2020,44,Male,Stuttgart,Software Engineer,22.0,3.0,Senior,Erlang,SQL,76000.0,0.0,76000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+1180,24-11-2020,45,Male,Berlin,Software Engineer,25.0,11.0,Senior,C++,SQL,100000.0,101.0,80000.0,13000.0,y,Self-employed,Temporary contract,English,50,Product,Yes,0.0,0
+1181,25-11-2020,45,Male,Berlin,Backend Developer,30.0,1.0,Senior,PHP,SQL,55000.0,0.0,55000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Startup,No,26.0,0
+1182,24-11-2020,45,Male,Berlin,Software Engineer,25.0,20.0,Lead,C++,SQL,75000.0,20000.0,73000.0,20000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+1183,24-11-2020,45,Male,Berlin,Mobile Developer,10.0,4.0,Lead,Swift,Objective-C,77000.0,2000.0,66000.0,2000.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1184,25-11-2020,45,Female,Berlin,Product Manager,15.0,7.0,Lead,Java ,SQL,52000.0,0.0,52000.0,0.0,y,Full-time employee,Unlimited contract,English,50,Product,No,2.0,0
+1187,24-11-2020,45,Male,Munich,Frontend Developer,3.0,0.0,Senior,JavaScript,SQL,70000.0,0.0,65000.0,0.0,y,Full-time employee,Unlimited contract,Russian,50,Startup,Yes,0.0,0
+1188,24-11-2020,45,Male,Munich,Data Scientist,2.0,2.0,Middle,Python,SQL,54000.0,0.0,54000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+1189,04-12-2020,45,Male,Munich,Data architect,19.0,11.0,Senior,Missing_Values,SQL,90000.0,2500.0,88000.0,2500.0,y,Full-time employee,Unlimited contract,English,10000,Multinational ,No,0.0,100
+1191,24-11-2020,45,Male,Schleswig-Holstein,Software Engineer,26.0,18.0,Senior,C#,SQL,93000.0,10000.0,93000.0,11000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+1192,04-12-2020,45,Male,Stuttgart,CTO,27.0,20.0,Head,Missing_Values,SQL,90000.0,0.0,90000.0,0.0,n,Founder,Unlimited contract,English,50,Consulting and Product,No,0.0,0
+1193,24-11-2020,46,Male,Berlin,Software Engineer,14.0,14.0,Senior,JavaScript,SQL,80000.0,0.0,63000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,Yes,20.0,0
+1194,24-11-2020,46,Male,Berlin,Software Engineer,14.0,14.0,Senior,JavaScript,SQL,80000.0,0.0,63000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Product,Yes,20.0,0
+1195,30-11-2020,46,Male,Berlin,Data Scientist,4.0,4.0,Head,Python,SQL,105000.0,0.0,85000.0,0.0,y,Full-time employee,Unlimited contract,German,50,Consulting and Product,No,0.0,0
+1196,11-12-2020,46,Male,Frankfurt,Software Engineer,10.0,10.0,Senior,Python,SQL,65000.0,5000.0,60000.0,7000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+1197,24-11-2020,46,Male,Frankfurt,Software Engineer,23.0,16.0,Senior,C#,SQL,90000.0,96000.0,76000.0,82000.0,y,Full-time employee,Unlimited contract,German,10000,Consulting and Product,No,40.0,0
+1198,24-11-2020,46,Male,Munich,Agile Coach,4.0,1.5,Senior,Missing_Values,SQL,82000.0,0.0,78000.0,5000.0,y,Full-time employee,Unlimited contract,English,1000,Product,Yes,24.0,0
+1199,24-11-2020,46,Male,Munich,Software Engineer,10.0,2.0,Senior,Python,SQL,68500.0,0.0,60000.0,0.0,y,Full-time employee,Unlimited contract,English,100,Startup,No,0.0,0
+1200,24-11-2020,46,Male,Munich,Scrum Master,12.0,8.0,Senior,Agile,SQL,85000.0,10000.0,88000.0,10000.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,38.0,0
+1201,24-11-2020,46,Male,Munich,QA Engineer,13.0,13.0,Senior,Java ,SQL,70000.0,8500.0,70000.0,8500.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,500
+1202,24-11-2020,46,Male,Munich,Software Engineer,4.0,3.0,Middle,Java ,SQL,56000.0,0.0,56000.0,0.0,n,Full-time employee,Unlimited contract,English,10000,Product,No,0.0,0
+1203,27-11-2020,46,Male,Stuttgart,Software Engineer,13.0,6.0,Middle,C++,SQL,70000.0,3000.0,68000.0,0.0,y,Full-time employee,Unlimited contract,English,10000,Product,No,4.0,0
+1205,24-11-2020,47,Male,Hamburg,Software Engineer,22.0,10.0,Senior,C++,SQL,46000.0,46000.0,46000.0,46000.0,y,Full-time employee,Unlimited contract,English,10,Product,No,0.0,1500
+1208,24-11-2020,48,Male,Berlin,Software Engineer,25.0,11.0,Senior,Java ,SQL,75000.0,0.0,75000.0,0.0,y,Full-time employee,Unlimited contract,English,1000,Product,No,0.0,0
+1211,24-11-2020,49,Male,Berlin,Software Engineer,15.0,15.0,Senior,Java ,SQL,67000.0,1500.0,66000.0,0.0,y,Full-time employee,Unlimited contract,German,10000,Product,No,0.0,0
+1212,25-11-2020,49,Male,Munich,Software Engineer,27.0,19.0,Senior,Java ,SQL,57000.0,0.0,57000.0,0.0,y,Full-time employee,Unlimited contract,German,1000,Consulting and Product,No,0.0,0
+1213,24-11-2020,50,Male,Berlin,Software Engineer,29.0,2.0,Lead,C++,SQL,28800.0,28800.0,28800.0,28800.0,y,Full-time employee,Unlimited contract,German,50,Technology,No,0.0,0
+1214,25-11-2020,51,Male,Berlin,Software Engineer,30.0,30.0,Senior,Python,SQL,60000.0,5000.0,50000.0,5000.0,y,Full-time employee,Unlimited contract,German,10000,Consulting and Product,No,0.0,0
+1217,30-11-2020,54,Male,Milano,Sales ,31.0,6.0,Head,Network Automation,SQL,110000.0,100000.0,110000.0,100000.0,y,Full-time employee,Unlimited contract,English,50,Consulting and Product,No,0.0,0
+1218,20-12-2020,54,Male,Munich,Software Engineer,25.0,15.0,Middle,Python,SQL,75000.0,5000.0,80000.0,500.0,y,Full-time employee,Unlimited contract,English,10000,Consulting and Product,No,30.0,1500
+1221,14-12-2020,56,Male,Munich,Software Engineer,30.0,19.0,Lead,C++,SQL,110000.0,110000.0,90000.0,100000.0,y,Full-time employee,Unlimited contract,English,100,Product,No,0.0,0
+1222,24-11-2020,59,Male,Berlin,Backend Developer,30.0,30.0,Senior,Java ,SQL,69000.0,0.0,69000.0,2000.0,y,Full-time employee,Unlimited contract,German,1000,Product,No,0.0,0
+1223,24-11-2020,65,Male,Berlin,Software Engineer,25.0,25.0,Senior,Pascal,.NET,55000.0,0.0,50000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Product,No,0.0,0
+1224,24-11-2020,66,Male,Munich,Software Engineer,40.0,4.0,Lead,Ruby on Rails,SQL,70000.0,0.0,50000.0,0.0,y,Full-time employee,Unlimited contract,German,100,Product,No,0.0,0
